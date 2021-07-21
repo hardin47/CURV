@@ -1,8 +1,5 @@
 ---
 title: "David Blackwell"
-output:
-  html_document:
-    keep_md: yes
 ---
 
 #### Links to resources
