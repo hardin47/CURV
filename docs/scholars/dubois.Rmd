@@ -6,6 +6,8 @@ output:
     keep_md: yes
 ---
 
+# W.E.B. Du Bois
+
 Du Bois was a sociologist and among the earliest data scientists.  As Battle-Baptiste and Rusert say, his work can be thought of as 
 
 > the rendering of information in a visual format to help communicate data while also generating new patterns and knoweldge throughout the act of visualization itselt.^[Battle-Baptiste and Rusert, W.E.B. Du Bois's Data Portraits: Visualizing Black America, the color line at the turn of the twentieth century, 2018, page 8.]

@@ -6,6 +6,8 @@ output:
     keep_md: yes
 ---
 
+# David Blackwell
+
 #### Links to resources
 
 * [wikipedia](https://en.wikipedia.org/wiki/David_Blackwell)
