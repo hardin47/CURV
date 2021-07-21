@@ -1,9 +1,6 @@
 ---
-layout: default
-title: "scholars"
 output:
-  html_document:
-    keep_md: yes
+  html_document
 ---
 
 
@@ -32,6 +29,7 @@ DT::datatable(scholars, escape = FALSE,
                            "app 1", "app 2"),
               extensions = "Buttons",
               options = list(dom = "Bfrtip",
-                             buttons = "csv", "pdf", "print") )
+                             buttons = "csv", "pdf", "print") ) %>%
+  DT::saveWidget('../scholars_table.html')
 ```
 
