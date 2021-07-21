@@ -38,7 +38,7 @@ scholars <- tribble(
 DT::datatable(scholars, escape = FALSE,
               rownames = F,
               colnames = c("last name", "first name", "lived", "web page",
-                           "git page", "theory 1", "theory 2", 
+                           "CURV page", "theory 1", "theory 2", 
                            "app 1", "app 2"),
               extensions = "Buttons",
               options = list(dom = "Bfrtip",
@@ -46,14 +46,14 @@ DT::datatable(scholars, escape = FALSE,
 ```
 
 
-## Contribute?
+### Contribute? Yes, please!
 
 Certainly, if you are here, then you have ideas which could be added to make this resource even better.
 Feel free to peruse the [GitHub repo](https://github.com/hardin47/CURV/tree/gh-pages) for the database.
 I welcome pull requests, or create an issue and I'll incorporate your suggestions directly into the database.
 Thank you in advance!
 
-## Contributors
+### Contributors
 
 The project would not have been possible without the help from many others.
 Thank you to all who have contributed, including:
