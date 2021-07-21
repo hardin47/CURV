@@ -1,0 +1,18 @@
+---
+title: "template"
+output: html_document
+---
+
+#### Links to resources
+
+* [wikipedia]()
+* [MAD]()
+
+#### Topics covered
+
+
+#### Seminal work
+
+
+####  Other
+
