@@ -1,13 +1,12 @@
 theme: jekyll-theme-architect
-title: Your awesome title
-email: your-email@example.com
+title: CURV
+email: jo.hardin@pomona.edu
 description: > # this means to ignore newlines in the text below
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: xieyihui
-github_username:  yihui/knitr-jekyll
+  connecting, uplifting, and recognizing voices
+url: "https://hardin47.github.io/CURV/" # the base hostname & protocol for your site
+twitter_username: jo_hardin47
+github_username:  hardin47
+
 permalink: /:year/:month/:title.html
 
 # Build settings
