@@ -1,0 +1,34 @@
+---
+layout: post
+title: "scholars"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(DT)
+library(knitr)
+```
+
+```{r echo = FALSE}
+scholars <- tribble(
+  ~lname, ~fname, ~lived, ~`web_page`, ~`git_page`, ~topic_1, ~topic_2, ~app_1, ~app_2,
+  "Blackwell", "David", "1919-2010", '<a href="https://en.wikipedia.org/wiki/David_Blackwell">wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/blackwell.html">CURV</a>', "decision theory", "Bayesian stats", "NA", "NA",
+  "DuBois", "W.E.B", "1868-1963", '<a href="https://en.wikipedia.org/wiki/W._E._B._Du_Bois">wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/dubois.html">CURV</a>', "data viz", "NA", "NA", "NA"
+)
+```
+
+
+
+```{r echo = FALSE}
+DT::datatable(scholars, escape = FALSE,
+              rownames = F,
+              colnames = c("last name", "first name", "lived", "web page",
+                           "CURV page", "theory 1", "theory 2", 
+                           "app 1", "app 2"),
+              extensions = "Buttons",
+              options = list(dom = "Bfrtip",
+                             buttons = "csv", "pdf", "print") )
+```
+
