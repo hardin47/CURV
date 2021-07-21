@@ -1,0 +1,12 @@
+name: "CURV"
+output_dir: "docs"
+navbar:
+  title: "CURV"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "connecting, uplifting, and recognizing voice"
+   href: index.html
+output:
+  html_document:
+ theme: Architect
