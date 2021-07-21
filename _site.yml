@@ -9,4 +9,4 @@ navbar:
    href: index.html
 output:
   html_document:
- theme: Architect
+  theme: architect
