@@ -1,6 +1,5 @@
 ---
 title: "W.E.B. Dubois"
-layout: default
 ---
 
 Du Bois was a sociologist and among the earliest data scientists.  As Battle-Baptiste and Rusert say, his work can be thought of as 

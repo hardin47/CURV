@@ -5,7 +5,7 @@ navbar:
   left:
   - text: "Home"
    href: index.html
-  - text: "connecting, uplifting, and recognizing voice"
+  - text: "connecting, uplifting, and recognizing voices"
    href: index.html
 output:
   html_document:
