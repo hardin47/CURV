@@ -19,32 +19,16 @@ I've listed just a few here, I encourage you and your students to check them out
 
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse)
-library(DT)
-library(knitr)
-```
-
-```{r echo = FALSE}
-scholars <- tribble(
-  ~lname, ~fname, ~lived, ~`web_page`, ~`git_page`, ~topic_1, ~topic_2, ~app_1, ~app_2,
-  "Blackwell", "David", "1919-2010", '<a href="https://en.wikipedia.org/wiki/David_Blackwell">wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/blackwell.html">CURV</a>', "decision theory", "Bayesian stats", "NA", "NA",
-  "DuBois", "W.E.B", "1868-1963", '<a href="https://en.wikipedia.org/wiki/W._E._B._Du_Bois">wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/dubois.html">CURV</a>', "data viz", "NA", "NA", "NA"
-)
-```
 
 
 
-```{r echo = FALSE}
-DT::datatable(scholars, escape = FALSE,
-              rownames = F,
-              colnames = c("last name", "first name", "lived", "web page",
-                           "CURV page", "theory 1", "theory 2", 
-                           "app 1", "app 2"),
-              extensions = "Buttons",
-              options = list(dom = "Bfrtip",
-                             buttons = "csv", "pdf", "print") )
+
+
+
+
+```{=html}
+<div id="htmlwidget-a36a3bc51d215dcd72dc" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-a36a3bc51d215dcd72dc">{"x":{"filter":"none","extensions":["Buttons"],"data":[["Blackwell","DuBois"],["David","W.E.B"],["1919-2010","1868-1963"],["<a href=\"https://en.wikipedia.org/wiki/David_Blackwell\">wikipedia<\/a>","<a href=\"https://en.wikipedia.org/wiki/W._E._B._Du_Bois\">wikipedia<\/a>"],["<a href = \"https://hardin47.github.io/CURV/scholars/blackwell.html\">CURV<\/a>","<a href = \"https://hardin47.github.io/CURV/scholars/dubois.html\">CURV<\/a>"],["decision theory","data viz"],["Bayesian stats","NA"],["NA","NA"],["NA","NA"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>last name<\/th>\n      <th>first name<\/th>\n      <th>lived<\/th>\n      <th>web page<\/th>\n      <th>CURV page<\/th>\n      <th>theory 1<\/th>\n      <th>theory 2<\/th>\n      <th>app 1<\/th>\n      <th>app 2<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"dom":"Bfrtip","buttons":["csv"],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 ```
 
 
