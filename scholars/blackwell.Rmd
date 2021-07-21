@@ -1,5 +1,6 @@
 ---
 title: "David Blackwell"
+output: html_document
 ---
 
 #### Links to resources
