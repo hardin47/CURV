@@ -10,8 +10,8 @@ github_username:  hardin47
 permalink: /:year/:month/:title.html
 
 # Build settings
-markdown: kramdown
-exclude: ['*.Rmd']
+kramdown:
+   input: GFM
 
   
   
