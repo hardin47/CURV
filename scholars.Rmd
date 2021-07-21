@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "scholars"
+output:
+  html_document:
+    keep_md: yes
 ---
 
 
