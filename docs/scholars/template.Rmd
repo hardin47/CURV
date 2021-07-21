@@ -1,6 +1,6 @@
 ---
 title: "template"
-output: html_document
+layout: default
 ---
 
 #### Links to resources
