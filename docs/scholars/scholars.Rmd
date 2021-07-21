@@ -1,6 +1,5 @@
 ---
-output:
-  html_document
+title: scholars table creation
 ---
 
 ```{r setup, include=FALSE}
