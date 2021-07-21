@@ -1,10 +1,11 @@
 ---
-title: "CURV: Connecting, uplifting, and recognizing voices"
-layout: default
+title: CURV Connecting, uplifting, and recognizing voices
 output:
   html_document:
     keep_md: yes
+layout: default
 ---
+
 
 CURV is a project designed to connect statisticians and data scientists to undergraduate curricula.  
 Amplifying voices which are often marginalized helps all of us to build a larger community of scholars inclusive of every voice.  
@@ -17,7 +18,7 @@ I've listed just a few here, I encourage you and your students to check them out
 * [Mathematicians of the African Diaspora](https://www.mathad.com/) is dedicated to promoting and highlighting the contributions of members of the African diaspora to mathematics, especially contributions to current mathematical research.
 * [Justice, Equity, Diversity, and Inclusion Outreach Group](http://www.datascijedi.org/), a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people. 
 
-
+<iframe src = "scholars_table.html" height = "600px" width = 100%" style = border:none;"></iframe>
 
 #### Contribute? Yes, please!
 
