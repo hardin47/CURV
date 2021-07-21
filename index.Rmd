@@ -1,7 +1,5 @@
 ---
 title: "Connecting, uplifting, and recognizing voices"
-author: "Jo Hardin"
-date: "7/21/2021"
 output: html_document
 ---
 
@@ -60,4 +58,8 @@ Thank you in advance!
 The project would not have been possible without the help from many others.
 Thank you to all who have contributed, including:
 
-Edray Goins, and Tianna Couch.
+[Edray Goins](https://www.pomona.edu/directory/people/edray-goins), and Tianna Couch.
+
+----------------------
+
+Created by [Jo Hardin](https://hardin47.netlify.app/), Professor of Mathematics & Statistics at [Pomona College](https://www.pomona.edu/academics/departments/mathematics).   
