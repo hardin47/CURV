@@ -1,6 +1,6 @@
 ---
 title: "W.E.B. Dubois"
-layout: page
+layout: default
 output:
   html_document:
     keep_md: yes
