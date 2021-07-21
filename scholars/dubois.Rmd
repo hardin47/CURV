@@ -32,3 +32,10 @@ They not only speak to the progress that had been made, but they centered many o
 The set of visualizations demonstrate how powerfully a picture can tell 1000 words, as the information Du Bois used was primarily available from public records (e.g., census and other government reports).
 
 Whitney Battle-Baptiste and Britt Rusert have reproduced and narrated the images from the exhibit in [W.E.B. Du Bois's Data Portraits: Visualizing Black America, the color line at the turn of the twentieth century](https://papress.com/products/w-e-b-du-boiss-data-portraits-visualizing-black-america).
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/tree/gh-pages)
