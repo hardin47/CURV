@@ -1,0 +1,27 @@
+---
+title: "template"
+output:
+  html_document:
+    keep_md: yes
+---
+
+#### Links to resources
+
+* [wikipedia]()
+* [MAD]()
+
+#### Topics covered
+
+
+#### Seminal work
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/tree/gh-pages)
+
