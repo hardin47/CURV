@@ -1,8 +1,5 @@
 ---
 title: "CURV: Connecting, uplifting, and recognizing voices"
-output:
-  html_document:
-    keep_md: yes
 ---
 
 CURV is a project designed to connect statisticians and data scientists to undergraduate curricula.  
