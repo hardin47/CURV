@@ -19,6 +19,11 @@ I've listed just a few here, I encourage you and your students to check them out
 
 * [Mathematicians of the African Diaspora](https://www.mathad.com/) is dedicated to promoting and highlighting the contributions of members of the African diaspora to mathematics, especially contributions to current mathematical research.
 * [Justice, Equity, Diversity, and Inclusion Outreach Group](http://www.datascijedi.org/), a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people. 
+* [Data for Black Lives](https://d4bl.org/programs.html#abolishbd) XXXX expand Covid data, Guidelines for data 
+* [We All Count](https://weallcount.com/2020/01/17/keeping-data-inclusivity-without-diluting-your-results/)  XXX expand - More guidelines for data inclusivity 
+* [Gayta Science](https://www.gaytascience.com/plot-me-genderfluid/) XXX expand
+Data Viz on gender .. so cool 
+* [Inclusivity Resource](https://blogs.ams.org/inclusionexclusion/2020/11/16/building-gender-and-sexuality-allyship-in-the-mathematics-community/) XXX expand
 
 
 <iframe src = "https://hardin47.github.io/CURV/scholars/scholars_table.html" height="600px" width="100%" style="border:none;"></iframe>
