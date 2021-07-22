@@ -82,6 +82,9 @@ aside#sidebar {
   float: left;
   font-size: 12px;
   line-height: 1.3;
+  float: none;
+  width: 100% ! important;
+
 }
 
 aside#sidebar p.repo-owner,
