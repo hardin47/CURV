@@ -9,21 +9,7 @@ github_username:  hardin47
 
 permalink: /:year/:month/:title.html
 
-# Build settings
-kramdown:
-   input: GFM
-   # Setup
-name:         Project or Site name (Architect Theme)
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-locale:       "en"
 
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
 
   
   
