@@ -1,0 +1,14 @@
+theme: jekyll-theme-architect
+
+# Setup
+title:        CURV
+description:    connecting, uplifting, and recognizing voices
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

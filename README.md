@@ -1,6 +1,6 @@
 ## Welcome to CURV: connecting, uplifting, and recognizing voices
 
-CURV is a project designed to connect statisticians and data scientists to undergraduate curricula.  
+CURV is a project designed to connect statisticians and data scientists to undergraduate curricula.
 Amplifying voices which are often marginalized helps all of us to build a larger community of scholars inclusive of every voice.  
 
 #### Contribute? Yes, please!
