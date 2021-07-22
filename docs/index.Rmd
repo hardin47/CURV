@@ -24,7 +24,7 @@ I've listed just a few here, I encourage you and your students to check them out
 * [Gayta Science](https://www.gaytascience.com/plot-me-genderfluid/) XXX expand
 Data Viz on gender .. so cool 
 * [Inclusivity Resource](https://blogs.ams.org/inclusionexclusion/2020/11/16/building-gender-and-sexuality-allyship-in-the-mathematics-community/) XXX expand
-
+* [Mathematically Gifted and Black](https://mathematicallygiftedandblack.com/) XXX expand
 
 <iframe src = "https://hardin47.github.io/CURV/scholars/scholars_table.html" height="600px" width="100%" style="border:none;"></iframe>
 
