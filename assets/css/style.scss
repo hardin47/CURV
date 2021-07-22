@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+/**
+ * changing colors from blue to green
+ */
+ 
 a {
   color: #877e2c;
 }
@@ -23,6 +27,16 @@ code {
   background-color: #f2f8fc;
   border: solid 1px #F0EDD1;
 }
+header h2 {
+  width: 540px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 26px;
+  font-weight: normal;
+  line-height: 1.3;
+  color: #c1b43e;
+  letter-spacing: 0;
+}
 
 pre code {
   padding: 0;
@@ -30,6 +44,49 @@ pre code {
   background-color: #fff;
   border: none;
 }
+
+
+/* GENERAL ELEMENT TYPE STYLES */
+
+#main-content h1:before {
+  padding-right: 0.3em;
+  margin-left: -0.9em;
+  color: #c1b43e;
+  content: "/";
+}
+#main-content h2:before {
+  padding-right: 0.3em;
+  margin-left: -1.5em;
+  content: "//";
+  color: #c1b43e;
+}
+#main-content h3:before {
+  padding-right: 0.3em;
+  margin-left: -2em;
+  content: "///";
+  color: #c1b43e;
+}
+h4:before {
+  padding-right: 0.3em;
+  margin-left: -2.8em;
+  content: "////";
+  color: #c1b43e;
+}
+h5:before {
+  padding-right: 0.3em;
+  margin-left: -3.2em;
+  content: "/////";
+  color: #c1b43e;
+}
+h6:before {
+  padding-right: 0.3em;
+  margin-left: -3.7em;
+  content: "//////";
+  color: #c1b43e;
+}
+
+
+
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
@@ -62,7 +119,7 @@ pre code {
     line-height: 1;
     color: #877e2c;
     text-align: center;
-    background-color: #9ddcff;
+    background-color: #c1b43e;
     background-image: none;
     border-radius: 5px;
     -moz-border-radius: 5px;
