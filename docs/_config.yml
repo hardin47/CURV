@@ -9,7 +9,12 @@ github_username:  hardin47
 
 permalink: /:year/:month/:title.html
 
+# Gems
+gems:
+  - jekyll-paginate
 
+#Others
+markdown: kramdown
 
   
   
