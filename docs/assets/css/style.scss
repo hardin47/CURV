@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-architect";
+
 
 /**
  * changing colors from blue to green
@@ -155,3 +156,4 @@ h6:before {
     content: none;
   }
 }
+
