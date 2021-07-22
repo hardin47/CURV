@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to CURV: connecting, uplifting, and recognizing voices
 
-You can use the [editor on GitHub](https://github.com/hardin47/CURV/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+CURV is a project designed to connect statisticians and data scientists to undergraduate curricula.  
+Amplifying voices which are often marginalized helps all of us to build a larger community of scholars inclusive of every voice.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Contribute? Yes, please!
 
-### Markdown
+Certainly, if you are here, then you have ideas which could be added to make this resource even better.
+Feel free to peruse the [CURV GitHub repo](https://github.com/hardin47/CURV/tree/gh-pages).
+I welcome pull requests, or create an issue and I'll incorporate your suggestions directly into the database.
+Thank you in advance!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+--------
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hardin47/CURV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+CURV was created by [Jo Hardin](https://hardin47.netlify.app/), Professor of Mathematics & Statistics at [Pomona College](https://www.pomona.edu/academics/departments/mathematics).   
