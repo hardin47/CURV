@@ -6,7 +6,7 @@ Amplifying voices which are often marginalized helps all of us to build a larger
 #### Contribute? Yes, please!
 
 Certainly, if you are here, then you have ideas which could be added to make this resource even better.
-Feel free to peruse the [CURV GitHub repo](https://github.com/hardin47/CURV/tree/gh-pages).
+Feel free to peruse the [CURV GitHub repo](https://github.com/hardin47/CURV/).
 I welcome pull requests, or create an issue and I'll incorporate your suggestions directly into the database.
 Thank you in advance!
 

@@ -33,4 +33,4 @@ Hear Blackwell tell the story [in his own words here](https://www.youtube.com/wa
 
 [Back to the full database](https://hardin47.github.io/CURV/)
 
-[GitHub repository](https://github.com/hardin47/CURV/tree/gh-pages)
+[GitHub repository](https://github.com/hardin47/CURV/)

@@ -43,4 +43,4 @@ Whitney Battle-Baptiste and Britt Rusert have reproduced and narrated the images
 
 [Back to the full database](https://hardin47.github.io/CURV/)
 
-[GitHub repository](https://github.com/hardin47/CURV/tree/gh-pages)
+[GitHub repository](https://github.com/hardin47/CURV/)
