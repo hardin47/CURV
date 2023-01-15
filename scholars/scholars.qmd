@@ -1,0 +1,45 @@
+---
+title: scholars table creation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(DT)
+library(knitr)
+```
+
+```{r echo = FALSE}
+scholars <- tribble(
+  ~lname, ~fname, ~lived, ~`web_page`, ~`git_page`, ~topic_1, ~topic_2, ~app_1, ~app_2,
+  "Blackwell", "David", "1919-2010", '<a target="_top" href="https://en.wikipedia.org/wiki/David_Blackwell">wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/blackwell.html">CURV</a>', "decision theory", "Bayesian stats", "", "",
+  "Du Bois", "W.E.B", "1868-1963", '<a target="_top"  href="https://en.wikipedia.org/wiki/W._E._B._Du_Bois">wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/dubois.html">CURV</a>', "data viz", "", "", "",
+  "Benn", "Emma", "current", '<a target="_top"  href="https://www.mountsinai.org/profiles/emma-k-benn">Mount Sinai</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/benn.html">CURV</a>', "Fisher's exact", "multinomial reg", "gender binary", "medicine",
+  "Vilas Boas", "Luciano", "current", '<a target="_top"  href="https://lucianovilasboas-69787.medium.com/">medium</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/vilasboas.html">CURV</a>', "logistic regression", "missingness", "student retention", "",
+  "Santos", "Robert", "current", '<a target="_top"  href="https://www.urban.org/author/robert-santos">Urban Institute</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/santos.html">CURV</a>', "regression", "", "housing discrimination", "",
+  "Sellers", "Kim", "current", '<a target="_top"  href="https://gufaculty360.georgetown.edu/s/contact/00336000014RjHWAA0/kimberly-sellers">Georgetown Univeristy</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/sellers.html">CURV</a>', "glms", "image analysis", "", "",
+  "Price", "Dionne", "current", '<a target="_top"  href="https://en.wikipedia.org/wiki/Dionne_Price">wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/price.html">CURV</a>', "clinical trials", "", "FDA regulations", "",
+  "Randall", "Annie", "retired", '<a target="_top"  href="https://mathematicallygiftedandblack.com/honorees/annietrandall/">MGAB</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/randall.html">CURV</a>', "", "", "Nat Inst Mental Health", "",
+  "Enders", "Felicity", "current", '<a target="_top"  href="https://www.mayo.edu/research/faculty/enders-felicity-t-ph-d/bio-00093556">Mayo Clinic</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/enders.html">CURV</a>', "", "", "nephrology", "",
+  "Jackson", "Monica", "current", '<a target="_top"  href="https://www.american.edu/cas/faculty/monica.cfm">American University</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/jackson.html">CURV</a>', "spatial statistics", "disease surveillance", "", "",
+  "Fuentes", "Montse", "current", '<a target="_top"  href="https://stat.uiowa.edu/people/montserrat-fuentes">U Iowa</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/fuentes.html">CURV</a>', "spatial statistics", "imaging", "environment", "",
+  "Irizarry", "Rafael", "current", '<a target="_top"  href="https://www.hsph.harvard.edu/rafael-irizarry/">Harvard</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/irizarry.html">CURV</a>', "normalizing", "variability", "genomics", "",
+  "Hughes-Oliver", "Jacqueline", "current", '<a target = "_blank" href = "https://www4.stat.ncsu.edu/~hughesol/">North Carolina State University</a>', '<a target = "_blank" href = "https://hardin47.github.io/CURV/scholars/hughes-oliver.html">CURV</a>', "DOE", "Cross Validation", "space-time models", ""
+) %>%
+  arrange(lname)
+```
+
+
+
+```{r echo = FALSE}
+DT::datatable(scholars, escape = FALSE,
+              rownames = F,
+              colnames = c("last name", "first name", "when", "where",
+                           "CURV page", "what 1", "what 2", 
+                           "what 3", "what 4"),
+              extensions = "Buttons",
+              options = list(dom = "Bfrtip",
+                             buttons = "csv", "pdf", "print") ) %>%
+  DT::saveWidget('scholars_table.html')
+```
+

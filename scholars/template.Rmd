@@ -1,0 +1,32 @@
+---
+title: "template"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+# Name
+
+#### Topics covered
+
+
+#### Seminal work
+
+#### Outside links
+
+* [wikipedia]()
+* [MAD]()
+* [linkedin]()
+* [personal]()
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

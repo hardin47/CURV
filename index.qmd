@@ -1,0 +1,46 @@
+---
+title: "CURV - connecting, uplifting, and recognizing voices"
+---
+
+
+CURV is a project designed to connect statisticians and data scientists to undergraduate curricula.
+Amplifying voices which are often marginalized helps all of us to build a larger community of scholars inclusive of every voice.  
+
+In particular, one of the major goals of the database is to lower the barrier to presenting examples of all types of scholars to our students.
+You might use the database with a "Statistician of the Day" activity.
+Or you might have students bring into the classroom one idea connecting a scholar to the class content.
+
+There are many good resources highlighting statisticians, data scientists, and mathematicians who are traditionally underrepresented.
+I've listed just a few here, I encourage you and your students to check them out!
+
+* <a href = "https://www.mathad.com/" target = "_blank">Mathematicians of the African Diaspora</a> is dedicated to promoting and highlighting the contributions of members of the African diaspora to mathematics, especially contributions to current mathematical research.
+* <a href = "http://www.datascijedi.org/" target = "_blank">Justice, Equity, Diversity, and Inclusion Outreach Group</a>, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people. 
+* <a href = "https://d4bl.org/" target = "_blank">Data for Black Lives</a> movement of activists, organizers, and scientists committed to the mission of using data to create concrete and measurable change in the lives of Black people.
+* <a href = "https://weallcount.com/2021/04/16/learning-from-indigenous-ways-of-knowing/" target = "_blank">We All Count</a> Extensive guidelines for data inclusivity.
+* <a href = "https://www.gaytascience.com/" target = "_blank">Gayta Science</a> Data stories / data viz / data analysis / data science on gender fluidity.
+* <a href = "https://blogs.ams.org/inclusionexclusion/2020/11/16/building-gender-and-sexuality-allyship-in-the-mathematics-community/" target = "_blank">Inclusivity Resource</a> Building Gender and Sexuality Allyship in the Mathematics Community.
+* <a href = "https://mathematicallygiftedandblack.com/" target = "_blank">Mathematically Gifted and Black</a> celebrates mathematicians from the African diaspora across the mathematical sciences.
+* <a href = "https://www.lathisms.org/" target = "_blank">Lathisms</a> A vibrant, inclusive, and diverse Mathematical community where the Latinx and Hispanic culture is valued, cultivated, and celebrated.
+
+:::{.column-page}
+<iframe src = "https://hardin47.github.io/CURV/scholars/scholars.html" height="600px" width="100%" style="border:none;"></iframe>
+:::
+
+#### Contribute? Yes, please!
+
+Certainly, if you are here, then you have ideas which could be added to make this resource even better.
+Feel free to peruse the <a href = "https://github.com/hardin47/CURV/" target = "_blank">CURV GitHub repo</a>.
+I welcome pull requests, or create an issue and I'll incorporate your suggestions directly into the database.
+Thank you in advance!
+
+#### Contributors
+
+The project would not have been possible without the help from many others.
+Thank you to all who have contributed, including:
+
+<a href = "https://www.pomona.edu/directory/people/edray-goins" target = "_blank">Edray Goins</a>, and <a href = "https://www.linkedin.com/in/tianna-couch-8a1588247/" target = "_blank">Tianna Couch</a>.
+
+----------------------
+
+Created by <a href = "https://hardin47.netlify.app/" target = "_blank">Jo Hardin</a>, Professor of Mathematics & Statistics at <a href = "https://www.pomona.edu/academics/departments/mathematics" target = "_blank">Pomona College</a>.   
+
