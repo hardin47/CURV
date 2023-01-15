@@ -32,6 +32,7 @@ scholars <- tribble(
 
 
 ```{r echo = FALSE}
+dir.create('../docs/scholars')
 DT::datatable(scholars, escape = FALSE,
               rownames = F,
               colnames = c("last name", "first name", "when", "where",
@@ -40,6 +41,6 @@ DT::datatable(scholars, escape = FALSE,
               extensions = "Buttons",
               options = list(dom = "Bfrtip",
                              buttons = "csv", "pdf", "print") ) %>%
-  DT::saveWidget('scholars_table.html')
+  DT::saveWidget('../docs/scholars/scholars_table.html')
 ```
 
