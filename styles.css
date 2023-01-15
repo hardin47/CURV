@@ -7,6 +7,9 @@ a {
 a:hover {
   color: #746c25;
 }
+title {
+  color: #ffffff;
+}
 header {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -18,6 +21,11 @@ code {
   padding: 0 3px;
   background-color: #f2f8fc;
   border: solid 1px #F0EDD1;
+}
+header h1 {
+  color: #ffffff;
+  font-family: 'Architects Daughter';
+  padding: 0 10px;
 }
 header h2 {
   width: 540px;
