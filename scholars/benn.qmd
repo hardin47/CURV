@@ -10,7 +10,7 @@ output:
 
 ::: {.g-col-4}
 ```{r fig.cap = "Emma Benn", fig.alt = "Image credit: Mt. Sinai? https://icahn.mssm.edu/profiles/emma-k-benn", preview = TRUE, echo = FALSE}
-#knitr::include_graphics("../images/benn.jpg")
+knitr::include_graphics("../images/benn.png")
 ```
 :::
 
