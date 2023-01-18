@@ -28,7 +28,7 @@ From her CV, she lists the following areas of research and application:
 
 > Prediction and Classification, Data Mining, Variable Selection and Dimension Reduction, Design of Experiments, Group Testing, Spatial Modeling; Cheminformatics and Drug Discovery, Ontology-Guided Analysis, Point Source Modeling, Transportation Modeling
 
-#### Example work
+#### Relevant work
 
 * Shen, H., Welch, W.J., Hughes-Oliver, J.M. 2011. "Efficient, Adaptive Cross-Validation for Tuning and Comparing Models, with Application to Drug Discovery". Annals of Applied Statistics. 5(4), 2668-2687. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-5/issue-4/Efficient-adaptive-cross-validation-for-tuning-and-comparing-models-with/10.1214/11-AOAS491.full
 

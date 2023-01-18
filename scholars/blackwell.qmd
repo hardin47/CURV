@@ -20,7 +20,7 @@ knitr::include_graphics("../images/blackwell.jpg")
 
 Blackwell was the first black person to receive a PhD in statistics in the US and the first black scholar to be admitted to the National Academy of Sciences.
 He was a statistician at UC Berkeley for more than 50 years. He was hired in 1954 after the department almost made him an offer in 1942 (but declined to do so when one faculty member's wife said she didn't want Blackwell hired because she wouldn't feel comfortable having faculty events in her home with a black man).
-Hear Blackwell tell the story [in his own words here](https://www.youtube.com/watch?v=Mqpf9tw44Xw).
+Hear Blackwell tell the story <a href = "https://www.youtube.com/watch?v=Mqpf9tw44Xw" target = "_blank">in his own words</a>.
 
 
 :::
@@ -30,10 +30,10 @@ Hear Blackwell tell the story [in his own words here](https://www.youtube.com/wa
 #### Topics covered
 
 Blackwell contributed to game theory, probability theory, information science, and Bayesian statistics.
-The [Rao-Blackwell theorem](https://en.wikipedia.org/wiki/Rao%E2%80%93Blackwell_theorem) (often seen in a senior level undergraduate class on statistical theory) is named after him.
+The <a href = "https://en.wikipedia.org/wiki/Rao%E2%80%93Blackwell_theorem" target = "_blank">Rao-Blackwell theorem</a> (often seen in a senior level undergraduate class on statistical theory) is named after him.
 
 
-#### Example work
+#### Relevant work
 
 * Blackwell, D. (1947). "Conditional expectation and unbiased sequential estimation". Annals of Mathematical Statistics. 18 (1): 105–110. doi:10.1214/aoms/1177730497.
 

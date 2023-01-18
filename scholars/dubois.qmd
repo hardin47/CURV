@@ -27,7 +27,7 @@ Du Bois was a sociologist and among the earliest data scientists.  As Battle-Bap
 
 Du Bois was a sociologist who contributed to the field of data visualization through infographics related to the African American in the early twentieth century.
 
-#### Example work
+#### Relevant work
 
 * Rusert, B., and Battle-Baptiste, W. "W. E. B. Du Bois's Data Portraits: Visualizing Black America", Princeton Architectural Press, 2018. https://papress.com/products/w-e-b-du-boiss-data-portraits-visualizing-black-america
 
