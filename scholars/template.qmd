@@ -6,7 +6,21 @@ output:
     keep_md: yes
 ---
 
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "name", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/name.jpeg")
+```
+:::
+
+:::{.g-col-8}
 # Name
+
+:::
+
+:::
+
 
 #### Topics covered
 

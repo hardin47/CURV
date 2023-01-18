@@ -6,9 +6,21 @@ output:
     keep_md: yes
 ---
 
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Jacqueline Hughes-Oliver", fig.alt = "Image credit: (NC State? https://statistics.sciences.ncsu.edu/people/hughesol/)", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/hughes-oliver.jpeg")
+```
+:::
+
+:::{.g-col-8}
 # Jacqueline Hughes-Oliver
 
 Professor Hughes-Oliver received her PhD from North Carolina State University in 1991.  She has been a Professor of Statistics at both George Mason University and North Carolina State University.  
+:::
+
+:::
 
 #### Topics covered
 
@@ -30,8 +42,6 @@ From her CV, she lists the following areas of research and application:
 * [linkedin](https://www.linkedin.com/in/jacqueline-jackie-hughes-oliver-b80974/)
 * [personal](https://www4.stat.ncsu.edu/~hughesol/)
 
-
-####  Other
 
 
 ----------------------
