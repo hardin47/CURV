@@ -20,7 +20,7 @@ scholars <- tribble(
   "Sellers", "Kim", "current", '<a target="_top"  href="https://gufaculty360.georgetown.edu/s/contact/00336000014RjHWAA0/kimberly-sellers">Georgetown Univeristy</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/sellers.html">CURV</a>', "glms", "image analysis", "", "",
   "Price", "Dionne", "current", '<a target="_top"  href="https://en.wikipedia.org/wiki/Dionne_Price">wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/price.html">CURV</a>', "clinical trials", "", "FDA regulations", "",
   "Randall", "Annie", "retired", '<a target="_top"  href="https://mathematicallygiftedandblack.com/honorees/annietrandall/">MGAB</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/randall.html">CURV</a>', "", "", "Nat Inst Mental Health", "",
-  "Enders", "Felicity", "current", '<a target="_top"  href="https://www.mayo.edu/research/faculty/enders-felicity-t-ph-d/bio-00093556">Mayo Clinic</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/enders.html">CURV</a>', "", "", "nephrology", "",
+  "Enders", "Felicity", "current", '<a target="_top"  href="https://www.mayo.edu/research/faculty/enders-felicity-t-ph-d/bio-00093556">Mayo Clinic</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/enders.html">CURV</a>', "log regression", "cross validation", "statistics education", "",
   "Jackson", "Monica", "current", '<a target="_top"  href="https://www.american.edu/cas/faculty/monica.cfm">American University</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/jackson.html">CURV</a>', "spatial statistics", "disease surveillance", "", "",
   "Fuentes", "Montse", "current", '<a target="_top"  href="https://stat.uiowa.edu/people/montserrat-fuentes">U Iowa</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/fuentes.html">CURV</a>', "spatial statistics", "imaging", "environment", "",
   "Irizarry", "Rafael", "current", '<a target="_top"  href="https://www.hsph.harvard.edu/rafael-irizarry/">Harvard</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/irizarry.html">CURV</a>', "normalizing", "variability", "genomics", "",
@@ -32,7 +32,7 @@ scholars <- tribble(
 
 
 ```{r echo = FALSE}
-dir.create('../docs/scholars')
+#dir.create('../docs/scholars')
 DT::datatable(scholars, escape = FALSE,
               rownames = F,
               colnames = c("last name", "first name", "when", "where",

@@ -17,7 +17,7 @@ knitr::include_graphics("../images/hughes-oliver.jpeg")
 :::{.g-col-8}
 # Jacqueline Hughes-Oliver
 
-Professor Hughes-Oliver received her PhD from North Carolina State University in 1991.  She has been a Professor of Statistics at both George Mason University and North Carolina State University.  
+Dr. Hughes-Oliver received her PhD from North Carolina State University in 1991.  She has been a Professor of Statistics at both George Mason University and North Carolina State University.  
 :::
 
 :::

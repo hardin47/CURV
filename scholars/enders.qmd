@@ -1,0 +1,52 @@
+---
+title: "Felicity Enders"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Felicity Enders", fig.alt = "Image credit: (Mayo Clinic? https://www.mayo.edu/research/faculty/enders-felicity-t-ph-d/bio-00093556)", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/enders.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Felicity Enders
+
+Dr. Enders received her PhD from Johns Hopkins Bloomberg School of Public Health.  With close to 200 publications, she has worked closely with clinicians, with particular focus on women's health and psychology.  She collaborates on analysis of data which come from clinical trials, and she works to education non-statisticians (primarily clinicians) on statistical topics.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Across the medical spectrum, Dr. Enders has provided advanced statistical modeling collaboration in clinical trials.  Her methods include many of those that are covered in undergraduate courses: regression, logistic regression, survival analysis, cross validation.
+
+She is also passionate about biostatistics education and works to dissolve the hidden curriculum for research, particulary statistical knowledge needed for non-statisticians.  Dr. Enders has identified hidden curriculum topics that disproportionately affect historically underrepresented clinicians, and she works to provide access to gaining needed skills.
+
+#### Seminal work
+
+* Enders F. "Do clinical and translational science graduate students understand linear regression? Development and early validation of the REGRESS quiz". Clin Transl Sci. 2013 Dec; 6 (6):444-51 Epub 2013 Aug 22
+
+* Treeprasertsuk S, Bjornsson E, Enders F, Suwanwalaikorn S, Lindor KD. <a href = "https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep.21496" target = "_blank">NAFLD fibrosis score: a prognostic predictor for mortality and liver complications among NAFLD patients".</a> World J Gastroenterol. 2013 Feb 28; 19(8):1219-29. (has ~3000 citations)
+
+#### Outside links
+
+* [personal](https://www.mayo.edu/research/faculty/enders-felicity-t-ph-d/bio-00093556)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
