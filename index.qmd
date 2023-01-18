@@ -23,7 +23,7 @@ I've listed just a few here, I encourage you and your students to check them out
 * <a href = "https://www.lathisms.org/" target = "_blank">Lathisms</a> A vibrant, inclusive, and diverse Mathematical community where the Latinx and Hispanic culture is valued, cultivated, and celebrated.
 
 :::{.column-page}
-<iframe src = "https://hardin47.github.io/CURV/scholars/scholars_table.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src = "https://hardin47.github.io/CURV/scholars/scholars_table.html" height="1000px" style="border:none;"></iframe>
 :::
 
 #### Contribute? Yes, please!
