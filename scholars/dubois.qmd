@@ -1,5 +1,5 @@
 ---
-title: "W.E.B. Dubois"
+title: "W.E.B. Du Bois"
 layout: default
 output: md_document
 ---
