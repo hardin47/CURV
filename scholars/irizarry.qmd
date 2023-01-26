@@ -1,0 +1,52 @@
+---
+title: "Rafael Irizarry"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Rafael Irizarry", fig.alt = "Image credit: https://en.wikipedia.org/wiki/Rafael_Irizarry_(scientist)", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/irizarry.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Rafael Irizarry
+
+Dr. Irizarry earned his Bachelor of Science degree in Mathematics from the University o Puerto Rico at Rio Piedras and his PhD from the University of California, Berkeley in Statistics.  He is now Professor of Biostatistics at the Harvard T.H. Chan School of Public Health and Professor of Biostatistics and Computational Biology at the Dana-Farber Cancer Institute.  Dr. Irizarry has been given many incredibly prestegious awards including the Presidents' Award given by the Committee of Presidents of Statistical Societies.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Dr. Irizarry's work is focused primarily on genomics and computational biology.  He is one of the founders of <a href = "https://www.bioconductor.org/" target = "_blank">Bioconductor</a> which is a suite of R packages designed for the analysis of genomic data.  
+
+#### Relevant work
+
+Multiple publications of Dr. Irizarry have over 10,000 citations.  Some of his work includes:
+
+* B.M. Bolstad, R.A Irizarry, M. Åstrand, T.P. Speed, <a href = "https://academic.oup.com/bioinformatics/article/19/2/185/372664" target = "_blank">"A comparison of normalization methods for high density oligonucleotide array data based on variance and bias."</a> Bioinformatics, Volume 19, Issue 2, January 2003, Pages 185–193.
+
+* Nishant Kishore, Domingo Marqués, Ayesha Mahmud, Mathew V. Kiang, Irmary Rodriguez, Arlan Fuller, Peggy Ebner, Cecilia Sorensen, Fabio Racy, Jay Lemery, Leslie Maas, Jennifer Leaning, Rafael A. Irizarry, Satchit Balsari, and Caroline O. Buckee. <a href = "https://www.nejm.org/doi/full/10.1056/nejmsa1803972" target = "_blank">"Mortality in Puerto Rico after Hurricane Maria."</a> New England Journal of Medicine.  2018.
+
+#### Outside links
+
+* [wikipedia](https://en.wikipedia.org/wiki/Rafael_Irizarry_(scientist))
+* [linkedin](https://www.linkedin.com/in/rafael-irizarry-b64b23195/)
+* [personal](https://rafalab.dfci.harvard.edu/)
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

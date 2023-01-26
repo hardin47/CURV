@@ -17,7 +17,7 @@ knitr::include_graphics("../images/benn.png")
 :::{.g-col-8}
 # Emma Benn
 
-Dr. Benn got her PhD from Columbia University, Mailman School of Public Health, and is now an Associate Professor in the Center for Biostatistics and Department of Population Health Science and Policy at the Icahn School of Medicine at Mount Sinai (ISMMS).  Additionally, she is the founding Director of <a href = "https://icahn.mssm.edu/research/center-scientific-diversity/team" target = "_blank">Center for Scientific Diversity</a> and Associate Dean of Faculty Well-being and Development at ISMMS.
+Dr. Benn obtained her PhD from Columbia University, Mailman School of Public Health, and is now an Associate Professor in the Center for Biostatistics and Department of Population Health Science and Policy at the Icahn School of Medicine at Mount Sinai (ISMMS).  Additionally, she is the founding Director of <a href = "https://icahn.mssm.edu/research/center-scientific-diversity/team" target = "_blank">Center for Scientific Diversity</a> and Associate Dean of Faculty Well-being and Development at ISMMS.
 
 :::
 
