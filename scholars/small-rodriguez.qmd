@@ -1,0 +1,54 @@
+---
+title: "Desi Small-Rodriguez"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Desi Small-Rodriguez", fig.alt = "Image credit: Matika Wilbur https://www.drdrdesi.com/", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/small-rodriguez.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Desi Small-Rodriguez
+
+Dr. Small-Rodriguez is a social demographer and an Assistant Professor of Sociology and American Indian Studies at UCLA.  She is Northern Cheyenne and Chicana and grounds her work in Indigenous studies, sociology of race and ethnicity, critical demography, and health policy research.  She directs the Data Warriors Lab (a mobile data sovereignty lab serving Indigenous communities) and was previously a member of the <a href = "https://indigenousdatalab.org/idsovteam/" target = "_blank">Collaboratory for Indigenous Data Governance</a>. She is a founding member of the <a href = "https://www.gida-global.org/whoweare" target = "_blank">Global Indigenous Data Alliance.</a>
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Dr. Small-Rodriguez is passionate about Indigenous data sovereignty and Indigenous data governance. Using networks of Indigenous scholars and survey methods, she works toward the following two goals:  (1) better collection and use of data on Indigenous people that has been gathered by external sources such as the census and other federal entities; (2) development of data methods and practitioners within the Indigenous community.  Dr. Small-Rodriguez also works for health and economic justice on Indian Reservations.
+
+
+
+#### Relevant work
+
+* S.R. Carroll, D. Rodriguez-Lonebear, A. Martinez, "Indigenous Data Governance: Strategies from United States Native Nations." Data Science Journal, 2019.  https://datascience.codata.org/article/10.5334/dsj-2019-031/
+
+> "Indigenous data sovereignty is the right of each Native nation to govern the collection, ownership, and application of the tribe’s data."
+
+* Rodriguez-Lonebear D, Barceló NE, Akee R, Carroll SR. "American Indian Reservations and COVID-19: Correlates of Early Infection Rates in the Pandemic." J Public Health Manag Pract. 2020. doi: 10.1097/PHH.0000000000001206.
+
+#### Outside links
+
+* [academic](https://soc.ucla.edu/person/desi-small-rodriguez/)
+* [linkedin](https://www.linkedin.com/in/desismallrodriguez/)
+* [personal](https://www.drdrdesi.com/)
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
