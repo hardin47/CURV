@@ -25,7 +25,8 @@ scholars <- tribble(
   "Fuentes", "Montse", "current", '<a target="_top"  href="https://stat.uiowa.edu/people/montserrat-fuentes">U Iowa</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/fuentes.html">CURV</a>', "spatial statistics", "imaging", "environment", "",
   "Irizarry", "Rafael", "current", '<a target="_top"  href="https://www.hsph.harvard.edu/rafael-irizarry/">Harvard</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/irizarry.html">CURV</a>', "normalizing", "variability", "genomics", "Conf Int",
   "Hughes-Oliver", "Jacqueline", "current", '<a target = "_blank" href = "https://www4.stat.ncsu.edu/~hughesol/">North Carolina State University</a>', '<a target = "_blank" href = "https://hardin47.github.io/CURV/scholars/hughes-oliver.html">CURV</a>', "DOE", "Cross Validation", "space-time models", "",
-  "Small-Rodriguez", "Desi", "current", '<a target = "_blank" href = "">UCLA</a>','<a target = "_blank" href = "https://hardin47.github.io/CURV/scholars/small-rodriguez.html">CURV</a>', "data sovereignty", "data governance", "survey methods", "") %>%
+  "Small-Rodriguez", "Desi", "current", '<a target = "_blank" href = "https://www.drdrdesi.com/">UCLA</a>','<a target = "_blank" href = "https://hardin47.github.io/CURV/scholars/small-rodriguez.html">CURV</a>', "data sovereignty", "data governance", "survey methods", "",
+  "Nuzzo", "Regina", "current", '<a href = "https://www.reginanuzzo.com/" target = "_blank">Gallaudet</a>', '<a href = "https://hardin47.github.io/CURV/scholars/nuzzo.html" target = "_blank">CURV</a>', "p-values", "science communication", "", "") %>%
   arrange(lname)
 ```
 

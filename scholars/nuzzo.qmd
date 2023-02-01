@@ -1,0 +1,58 @@
+---
+title: "Regina Nuzzo"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Regina Nuzzo", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/nuzzo.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Regina Nuzzo  
+
+Dr. Nuzzo received her PhD in Statistics from Stanford University and is now Professor of Science, Technology, & Mathematics at <a href = "https://gallaudet.edu/" target = "_blank">Gallaudet University</a>. Gallaudet University, federally funded and located in Washington, DC, is the only higher education institution where all programs are designed for the education of the deaf and hard of hearing. Dr. Nuzzo teaches statistics using American Sign Language.  
+She is the <a href = "https://www.amstat.org/news-listing/2021/10/08/asa-welcomes-regina-nuzzo-as-senior-advisor-for-statistics-communication-and-media-innovation" target = "_blank">Senior Advisor for Statistics Communication and Media Innovation at the American Statistical Association</a> and a freelance writer.  
+:::
+
+:::
+
+
+#### Topics covered
+
+Dr. Nuzzo is a statistician and a science journalist.  Her work has appeared in *Nature*, *Los Angeles Times*, *New York Times*, *Reader’s Digest*, *New Scientist*, and *Scientific American*.  Most of her work is in the "Health" or "Science" sections of the aforementioned outlets.  Primarily, she works to help lay-audiences understand science and statistics in particular. She earned her the American Statistical Association's 2014 Excellence in Statistical Reporting Award for her article on p-values in *Nature*.  Her work led to the <a href = "https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108" target = "_blank">ASA's statement on p-values</a>.
+
+#### Relevant work
+
+* Nuzzo, R. <a href = "https://doi.org/10.1038/506150a" target = "_blank">"Scientific method: Statistical errors."</a> Nature 506, 150–152 (2014). 
+
+* Nuzzo, R. <a href = "https://www.nih.gov/about-nih/what-we-do/science-health-public-trust/perspectives/science-health-public-trust/tips-communicating-statistical-significance" target = "_blank">"Tips for Communicating Statistical Significance."</a>  Science,
+Health, and Public Trust, National Institutes of Health, 2018.
+
+
+* Nuzzo, R. <a href = "https://www.latimes.com/health/la-he-mating8-2008dec08-story.html" target = "_blank">"Vying for a soul mate? Psych out the competition with
+science."</a> Health: Features. Los Angeles Times, 2008.
+
+#### Outside links
+
+* [wikipedia](https://en.wikipedia.org/wiki/Regina_Nuzzo)
+* [academic](https://gallaudet.edu/personnel/regina-nuzzo/)
+* [linkedin](https://www.linkedin.com/in/reginanuzzo/)
+* [personal](https://www.reginanuzzo.com/)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
