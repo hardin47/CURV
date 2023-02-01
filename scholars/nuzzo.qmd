@@ -9,7 +9,7 @@ output:
 ::: {.grid}
 
 ::: {.g-col-4}
-```{r fig.cap = "Regina Nuzzo", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+```{r fig.cap = "Regina Nuzzo", fig.alt = "Image credit: Regina Nuzzo https://www.reginanuzzo.com/", preview = TRUE, echo = FALSE}
 knitr::include_graphics("../images/nuzzo.jpg")
 ```
 :::
