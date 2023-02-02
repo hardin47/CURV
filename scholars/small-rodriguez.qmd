@@ -17,7 +17,7 @@ knitr::include_graphics("../images/small-rodriguez.jpg")
 :::{.g-col-8}
 # Desi Small-Rodriguez
 
-Dr. Small-Rodriguez is a social demographer and an Assistant Professor of Sociology and American Indian Studies at UCLA.  She is Northern Cheyenne and Chicana and grounds her work in Indigenous studies, sociology of race and ethnicity, critical demography, and health policy research.  She directs the Data Warriors Lab (a mobile data sovereignty lab serving Indigenous communities) and was previously a member of the <a href = "https://indigenousdatalab.org/idsovteam/" target = "_blank">Collaboratory for Indigenous Data Governance</a>. She is a founding member of the <a href = "https://www.gida-global.org/whoweare" target = "_blank">Global Indigenous Data Alliance.</a>
+Dr. Small-Rodriguez is a social demographer and an Assistant Professor of Sociology and American Indian Studies at UCLA.  She received a PhD in Sociology from the University of Arizona and a PhD in Demography from the University of Waikato.  Dr. Small-Rodriguez is Northern Cheyenne and Chicana and grounds her work in Indigenous studies, sociology of race and ethnicity, critical demography, and health policy research.  She directs the Data Warriors Lab (a mobile data sovereignty lab serving Indigenous communities) and was previously a member of the <a href = "https://indigenousdatalab.org/idsovteam/" target = "_blank">Collaboratory for Indigenous Data Governance</a>. She is a founding member of the <a href = "https://www.gida-global.org/whoweare" target = "_blank">Global Indigenous Data Alliance.</a>
 
 :::
 
