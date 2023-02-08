@@ -1,0 +1,48 @@
+---
+title: "Tommy Wright"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Tommy Wright", fig.alt = "Image credit: https://magazine.amstat.org/blog/2020/02/01/tommy-wright/", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/wright.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Tommy Wright
+
+:::
+
+:::
+
+https://www.niss.org/people/tommy-wright
+
+#### Topics covered
+
+
+#### Relevant work
+
+* Tommy Wright.  "Sampling and Census 2000: The Concepts: Established statistical methods can reduce net undercounting of the population—if they are allowed." American Scientist, Vol. 86, 1998, pp. 245-253. https://www.jstor.org/stable/27857024
+
+* Tommy Wright, "Exact optimal sample allocation: More efficient than Neyman," Statistics & Probability Letters, Volume 129, 2017, pp. 50-57.
+https://doi.org/10.1016/j.spl.2017.04.026.
+
+#### Outside links
+
+* [MAD](https://www.mathad.com/profile?cjhe2518292537197309136adia)
+* [ASA](https://magazine.amstat.org/blog/2020/02/01/tommy-wright/)
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

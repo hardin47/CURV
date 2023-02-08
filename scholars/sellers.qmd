@@ -1,0 +1,46 @@
+---
+title: "Kim Sellers"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Kim Sellers", fig.alt = "Image credit: Kim Sellers, https://www.kimflaggsellers.com/ ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/sellers.jpeg")
+```
+:::
+
+:::{.g-col-8}
+# Kim Sellers
+
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+#### Outside links
+
+* [wikipedia](https://en.wikipedia.org/wiki/Kimberly_Sellers)
+* [MAD]()
+* [linkedin]()
+* [personal](https://www.kimflaggsellers.com/)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
