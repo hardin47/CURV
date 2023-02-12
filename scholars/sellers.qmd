@@ -17,6 +17,8 @@ knitr::include_graphics("../images/sellers.jpeg")
 :::{.g-col-8}
 # Kim Sellers
 
+Dr. Sellers received her PhD in Statistics from the George Washington University.  She is currently Professor of Mathematics and Statistics at Georgetown University.  She was the inaugural chairperson of the American Statistical Association's <a href = "http://www.datascijedi.org/" target = "_blank">Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group</a>.  
+
 :::
 
 :::
@@ -24,18 +26,27 @@ knitr::include_graphics("../images/sellers.jpeg")
 
 #### Topics covered
 
+Dr. Sellers' primary research area is in the Conway-Maxwell-Poisson (COM-Poisson) model, a generalization of the Poisson model that does not require the mean and the variance of the distribution to be equal. The COM-Poisson model is used in myriad applications due to its flexibility and ability to model real-world applications.  Dr. Sellers has written about the work in regression settings, clustered categorical data, and correlated data.  The work culminates in a Cambridge text, **The Conway–Maxwell–Poisson Distribution**. She and collaborators have also created four R packages -  `COMPoissonReg`, `cmpprocess`, `multicmp`, and `CMPControl` - so that analysts can seamlessly apply her work in data applications.
+
 
 #### Relevant work
+
+* Sellers, K. (2023). The Conway–Maxwell–Poisson Distribution (Institute of Mathematical Statistics Monographs). Cambridge: Cambridge University Press.
+
+* Sellers, KF, Premeaux, B. "Conway–Maxwell–Poisson regression models for dispersed count data." WIREs Comput Stat. 2021; 13:e1533. https://doi.org/10.1002/wics.1533
+
+* Kimberly F. Sellers, Galit Shmueli "A flexible regression model for count data," The Annals of Applied Statistics, Ann. Appl. Stat. 4(2), 943-961, 2010.
+
+* Sellers K, Lotze T, Raim A (2021) COMPoissonReg: Conway-Maxwell-Poisson
+Regression, version 0.8.0; http://cran.rproject.org/web/packages/COMPoissonReg/index.html
 
 #### Outside links
 
 * [wikipedia](https://en.wikipedia.org/wiki/Kimberly_Sellers)
-* [MAD]()
-* [linkedin]()
+* [MAD](https://www.mathad.com/profile?baeb2518292539399974978bbaa)
+* [linkedin](https://www.linkedin.com/in/kimberly-sellers-7a5b3a126/)
 * [personal](https://www.kimflaggsellers.com/)
 
-
-####  Other
 
 
 ----------------------

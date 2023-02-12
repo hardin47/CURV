@@ -1,0 +1,49 @@
+---
+title: "Robert Santos"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "name", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/santos.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Robert Santos
+
+Dr. Santos received an MA in Statistics from the University of Michigan, Ann Arbor.  In 2021 president ASA, urban institute.  As a Mexican-American, he is the first non-white person to serve as the Director of the Census Bureau (appointed by Joe Biden in 2022).  
+
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+see papers here: https://www.urban.org/author/robert-santos 
+
+#### Outside links
+
+* [wikipedia](https://en.wikipedia.org/wiki/Robert_Santos)
+* [linkedin]()
+* [Urban Institue](https://www.urban.org/author/robert-santos)
+* [US Census Bureau](https://www.census.gov/newsroom/bios/robert-santos.html)
+
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

@@ -1,0 +1,52 @@
+---
+title: "Florence Nightingale"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Florence Nightingale", fig.alt = "Image credit: Henry Hering (1814-1893) - National Portrait Gallery, London", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/nightingale.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Florence Nightingale
+
+Nightingale was a nurse who is considered to be the founder of modern nursing.  In particular, she was admant about the importance of hygiene and sanitary conditions.  She was born into a wealthy and well-connected family and had a large amount of privilege.  Educated by her father, she showed an ability toward making analytic arguments at an early age.  For her work, she was awarded the Royal Red Cross, the Lady of Grace of the Order of St John, and the Order of Merit.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Nightingale was a nurse and statistician who used her analytic abilities to better understand and improve public health.  She served in the Crimean War where Britain and France fought against the Russian invasion of the Ottoman Empire.  Nightingale worked to convince Queen Victoria that poor sanitation and overcrowding were causing unnecessary death.  She was able to show, for example, that peacetime soldiers (who lived in poorly kept barracks) were dying in much higher number than comparable civilian men. Her genius was to collect data meticulously and to display it in ways that were accessible to the general public.  Her visualizations are lauded as pioneering and the first of their kind to tell effective stories of important issues.
+
+
+#### Relevant work
+
+* RJ Andrews, "Florence Nightingale's Data Revolution" in Scientific American 327, 2, 78-85, 2022. doi:10.1038/scientificamerican0822-78, https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/
+
+```{r fig.cap = ' "Diagram of the causes of mortality in the army in the East" was published in Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army and sent to Queen Victoria in 1858.', fig.alt = "Image credit: Florence Nightingale, work is in the public domain ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/Nightingale-mortality.jpg")
+```
+
+#### Outside links
+
+* [wikipedia](https://en.wikipedia.org/wiki/Florence_Nightingale)
+
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

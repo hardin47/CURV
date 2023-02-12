@@ -81,7 +81,7 @@
     "href": "scholars/sellers.html",
     "title": "Kim Sellers",
     "section": "",
-    "text": "Kim Sellers\n\n\n\n\n\n\nKim Sellers\n\n\n\nTopics covered\n\n\nRelevant work\n\n\nOutside links\n\nwikipedia\nMAD\nlinkedin\npersonal\n\n\n\nOther\n\nBack to the full database\nGitHub repository"
+    "text": "Kim Sellers\n\n\n\n\n\n\nKim Sellers\nDr. Sellers received her PhD in Statistics from the George Washington University. She is currently Professor of Mathematics and Statistics at Georgetown University. She was the inaugural chairperson of the American Statistical Association’s Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group.\n\n\n\nTopics covered\nDr. Sellers’ primary research area is in the Conway-Maxwell-Poisson (COM-Poisson) model, a generalization of the Poisson model that does not require the mean and the variance of the distribution to be equal. The COM-Poisson model is used in myriad applications due to its flexibility and ability to model real-world applications. Dr. Sellers has written about the work in regression settings, clustered categorical data, and correlated data. The work culminates in a Cambridge text, The Conway–Maxwell–Poisson Distribution. She and collaborators have also created four R packages - COMPoissonReg, cmpprocess, multicmp, and CMPControl - so that analysts can seamlessly apply her work in data applications.\n\n\nRelevant work\n\nSellers, K. (2023). The Conway–Maxwell–Poisson Distribution (Institute of Mathematical Statistics Monographs). Cambridge: Cambridge University Press.\nSellers, KF, Premeaux, B. “Conway–Maxwell–Poisson regression models for dispersed count data.” WIREs Comput Stat. 2021; 13:e1533. https://doi.org/10.1002/wics.1533\nKimberly F. Sellers, Galit Shmueli “A flexible regression model for count data,” The Annals of Applied Statistics, Ann. Appl. Stat. 4(2), 943-961, 2010.\nSellers K, Lotze T, Raim A (2021) COMPoissonReg: Conway-Maxwell-Poisson Regression, version 0.8.0; http://cran.rproject.org/web/packages/COMPoissonReg/index.html\n\n\n\nOutside links\n\nwikipedia\nMAD\nlinkedin\npersonal\n\n\nBack to the full database\nGitHub repository"
   },
   {
     "objectID": "scholars/wright.html",
@@ -89,5 +89,19 @@
     "title": "Tommy Wright",
     "section": "",
     "text": "Tommy Wright\n\n\n\n\n\n\nTommy Wright\n\n\nhttps://www.niss.org/people/tommy-wright\n\nTopics covered\n\n\nRelevant work\n\nTommy Wright. “Sampling and Census 2000: The Concepts: Established statistical methods can reduce net undercounting of the population—if they are allowed.” American Scientist, Vol. 86, 1998, pp. 245-253. https://www.jstor.org/stable/27857024\nTommy Wright, “Exact optimal sample allocation: More efficient than Neyman,” Statistics & Probability Letters, Volume 129, 2017, pp. 50-57. https://doi.org/10.1016/j.spl.2017.04.026.\n\n\n\nOutside links\n\nMAD\nASA\n\n\nBack to the full database\nGitHub repository"
+  },
+  {
+    "objectID": "scholars/santos.html",
+    "href": "scholars/santos.html",
+    "title": "Robert Santos",
+    "section": "",
+    "text": "name\n\n\n\n\n\n\nRobert Santos\nDr. Santos received an MA in Statistics from the University of Michigan, Ann Arbor. In 2021 president ASA, urban institute. As a Mexican-American, he is the first non-white person to serve as the Director of the Census Bureau (appointed by Joe Biden in 2022).\n\n\n\nTopics covered\n\n\nRelevant work\nsee papers here: https://www.urban.org/author/robert-santos\n\n\nOutside links\n\nwikipedia\nlinkedin\nUrban Institue\nUS Census Bureau\n\n\nBack to the full database\nGitHub repository"
+  },
+  {
+    "objectID": "scholars/nightingale.html",
+    "href": "scholars/nightingale.html",
+    "title": "Florence Nightingale",
+    "section": "",
+    "text": "Florence Nightingale\n\n\n\n\n\n\nFlorence Nightingale\nNightingale was a nurse who is considered to be the founder of modern nursing. In particular, she was admant about the importance of hygiene and sanitary conditions. She was born into a wealthy and well-connected family and had a large amount of privilege. Educated by her father, she showed an ability toward making analytic arguments at an early age. For her work, she was awarded the Royal Red Cross, the Lady of Grace of the Order of St John, and the Order of Merit.\n\n\n\nTopics covered\nNightingale was a nurse and statistician who used her analytic abilities to better understand and improve public health. She served in the Crimean War where Britain and France fought against the Russian invasion of the Ottoman Empire. Nightingale worked to convince Queen Victoria that poor sanitation and overcrowding were causing unnecessary death. She was able to show, for example, that peacetime soldiers (who lived in poorly kept barracks) were dying in much higher number than comparable civilian men. Her genius was to collect data meticulously and to display it in ways that were accessible to the general public. Her visualizations are lauded as pioneering and the first of their kind to tell effective stories of important issues.\n\n\nRelevant work\n\nRJ Andrews, “Florence Nightingale’s Data Revolution” in Scientific American 327, 2, 78-85, 2022. doi:10.1038/scientificamerican0822-78, https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/\n\n\n\n\n\n\n“Diagram of the causes of mortality in the army in the East” was published in Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army and sent to Queen Victoria in 1858.\n\n\n\n\n\n\nOutside links\n\nwikipedia\n\n\nBack to the full database\nGitHub repository"
   }
 ]
