@@ -9,7 +9,7 @@ output:
 ::: {.grid}
 
 ::: {.g-col-4}
-```{r fig.cap = "name", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+```{r fig.cap = "Robert Santos", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
 knitr::include_graphics("../images/santos.jpg")
 ```
 :::
@@ -17,7 +17,10 @@ knitr::include_graphics("../images/santos.jpg")
 :::{.g-col-8}
 # Robert Santos
 
-Dr. Santos received an MA in Statistics from the University of Michigan, Ann Arbor.  In 2021 president ASA, urban institute.  As a Mexican-American, he is the first non-white person to serve as the Director of the Census Bureau (appointed by Joe Biden in 2022).  
+Robert Santos received an MA in Statistics from the University of Michigan, Ann Arbor.  He served as president of the American Statistical Association in 2021.  As a survey researcher, he worked at National Opinion Research Center (NORC, University of Chicago) and the Urban Institute in Washington, DC. From <a href = "https://en.wikipedia.org/wiki/Urban_Institute" target = "_blank">wikipedia</a>: The Urban Institute measures policy effects, compares options, shows which stakeholders get the most and least, tests conventional wisdom, reveals trends, and makes costs, benefits, and risks explicit.
+
+
+As a Mexican-American, he is the first non-white person to serve as the Director of the US Census Bureau (appointed by Joe Biden and approved by the US Senate in 2022).  
 
 :::
 
@@ -26,15 +29,25 @@ Dr. Santos received an MA in Statistics from the University of Michigan, Ann Arb
 
 #### Topics covered
 
+Santos is a survey researcher with much of his recent focus on the US Census.  In particular, he has written extensively about miscounting particular groups of people in the Census.  Similar work studies the relationship between race and ethnicity in surveys
+
 
 #### Relevant work
 
-see papers here: https://www.urban.org/author/robert-santos 
+
+* R. Santos, D. Elliott.  "Is It Time to Postpone the 2020 Census?", Urban Institute, March 13, 2020.  https://www.urban.org/urban-wire/it-time-postpone-2020-census
+
+* "Tracking COVID-19’s Effects by Race and Ethnicity: Questionnaire Two", Urban Institute, August 2022.  https://www.urban.org/features/tracking-covid-19s-effects-race-and-ethnicity-questionnaire-two
+
+* R. Santos. "Aiming for the True Count: Four Numbers That Matter in the 2020 Census", Urban Institue, June 2019. https://www.urban.org/urban-wire/aiming-true-count-four-numbers-matter-2020-census
+
+* D. Elliott, R. Santos, S. Martin, C. Runes.  "Assessing Miscounts in the 2020 Census", Urban Institute, June 2019.  https://www.urban.org/research/publication/assessing-miscounts-2020-census
+  - Interactive feature describing the 2020 Census and <a href = "https://apps.urban.org/features/2020-census/" target = "_blank">Who’s At Risk of Being Miscounted?</a>
+  - <a href = "https://github.com/UrbanInstitute/2020-census" target = "_blank">GitHub site for the interactive feature</a>
 
 #### Outside links
 
 * [wikipedia](https://en.wikipedia.org/wiki/Robert_Santos)
-* [linkedin]()
 * [Urban Institue](https://www.urban.org/author/robert-santos)
 * [US Census Bureau](https://www.census.gov/newsroom/bios/robert-santos.html)
 
