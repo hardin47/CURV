@@ -17,14 +17,24 @@ knitr::include_graphics("../images/wright.jpg")
 :::{.g-col-8}
 # Tommy Wright
 
-:::
+Dr. Wright received his PhD in Statistics from The Ohio State University and has worked at the US Census Bureau since 1996.  The Census Bureau planned to use sampling (instead of straight enumeration) in the 2000 census.  There was clear evidence that sampling would better evaluate the true number of people in each district in the United States.  In 1998 the US House of Representatives filed a lawsuit against the Department of Commerce with the argument that sampling is unconstitutional.  In 1998 the Supreme Court decided for the plaintiffs, and the 2000 census did not have any sampling. The Census Bureau describes what happened <a href = "https://www.census.gov/history/www/through_the_decades/overview/2000.html" target = "_blank">here</a>.
+
+Tommy Wright provides an <a href = "https://www.jstor.org/stable/27857024" target = "_blank">excellent and accessible overview</a> of the sampling method and the importance of using sampling.  
 
 :::
 
-https://www.niss.org/people/tommy-wright
+:::
+
 
 #### Topics covered
 
+Dr. Wright's background is in mathematical probability sampling, seeking to demystify statistical results.  His US Census page reports his research interests as:
+
+>(1) optimal allocation of the sample in sample surveys; 
+>(2) apportionment methods for the distribution of seats in the U. S. House of Representatives following each census; 
+>(3) expressing uncertainty in rankings based on sample surveys;
+>(4) understanding what interviewers do to obtain cooperation in government face-to-face sample surveys; and 
+>(5) thinking about a role for big data with official government statistics. 
 
 #### Relevant work
 
@@ -37,6 +47,7 @@ https://doi.org/10.1016/j.spl.2017.04.026.
 
 * [MAD](https://www.mathad.com/profile?cjhe2518292537197309136adia)
 * [ASA](https://magazine.amstat.org/blog/2020/02/01/tommy-wright/)
+* [professional](https://www.niss.org/people/tommy-wright)
 
 
 
