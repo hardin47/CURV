@@ -1,0 +1,53 @@
+---
+title: "Monica Jackson"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Monica Jackson", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/jackson.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Monica Jackson
+
+Dr. Jackson did her undergraduate work in mathematics at Clark Atlanta University and received her PhD in applied mathematics and computational science from the University of Maryland.  After fifteen years on the faculty as Professor of Mathematics and Statistics, Dr. Jackson is now Deputy Provost and Dean of Faculty at American University.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Dr. Jackson's main area of research is in spatial statistics, particularly applied to disease surveillance.  Her methods seek to detect, for example, cancer clusters and other spatially related diseases.  Among other tools, she uses simulations to set up different correlated spatial structures in order to make inferences about the research questions at hand.  
+
+#### Relevant work
+
+* Perrin, E., Sellers, T., Hernandez Maxwell, L., Morgand, M., Davis, S., Cook, C., Jackson, M., Sellers, K. (2015) <a href = "https://www.jsr.org/index.php/path/article/view/214/104" target = "_blank">"A Statistical Analysis of Weight Gain during the Freshman Year of College,"</a> Journal of Student Research, 4(1), 144-151.
+
+* Jackson, M. C., Colson, A., Johansen, L., Furlong, C., Sellers, K. F. (2010). <a href = "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9574.2010.00453.x" target = "_blank">"Modelling the effect of climate change on the prevalence of Malaria in Western Africa,"</a> Statistica Neerlandica, 64(4), 388-400.
+
+#### Outside links
+
+* [wikipedia]()
+* [MAD](https://www.mathad.com/profile?ffgb2518292536023420687aidf)
+* [linkedin]()
+* [American University](https://www.american.edu/cas/faculty/monica.cfm)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
