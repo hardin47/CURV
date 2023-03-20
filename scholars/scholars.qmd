@@ -50,7 +50,7 @@ DT::datatable(scholars, escape = FALSE,
                            "what 3", "what 4"),
               extensions = "Buttons",
               options = list(dom = "Bfrtip",
-                             buttons = list("csv", "pdf", "print"),
+                             buttons = c("csv", "pdf", "print"),
                              pageLength = 15)) %>%
   DT::saveWidget('../docs/scholars/scholars_table.html')
 ```
