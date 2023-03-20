@@ -33,7 +33,10 @@ scholars <- tribble(
   "Nightingale", "Florence", "1820-1910", '<a href = "https://en.wikipedia.org/wiki/Florence_Nightingale" target = "_blank">Wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/nightingale.html" target = "_blank">CURV</a>', "visualizations", "communication", "", "",
   "Paisano", "Edna", "1948-2014", '<a href = "https://en.wikipedia.org/wiki/Edna_Paisano" target = "_blank">Wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/paisano.html" target = "_blank">CURV</a>', "demography", "undercount", "", "",
   "Mackey", "Lester", "current", '<a href = "http://stanford.edu/~lmackey/" target = "_blank">Stanford</a>', '<a href = "https://hardin47.github.io/CURV/scholars/mackey.html" target = "_blank">CURV</a>', "statistical machine learning", "scalable algorithms", "approximate inference", "",
-"Cruz", "Maricela", "current", '<a href = "https://www.kpwashingtonresearch.org/our-research/our-scientists/cruz-maricela" target = "_blank">Kaiser Permanente</a>', '<a href = "https://hardin47.github.io/CURV/scholars/cruz.html" target = "_blank">CURV</a>', "time series", "intervention", "multi-level models", "longitudinal") %>%  arrange(lname)
+"Cruz", "Maricela", "current", '<a href = "https://www.kpwashingtonresearch.org/our-research/our-scientists/cruz-maricela" target = "_blank">Kaiser Permanente</a>', '<a href = "https://hardin47.github.io/CURV/scholars/cruz.html" target = "_blank">CURV</a>', "time series", "intervention", "multi-level models", "longitudinal",
+"Dairyko", "Mike", "current", '<a href = "https://www.linkedin.com/in/mdairyko/" target = "_blank">Linkedin</a>', '<a href = "https://hardin47.github.io/CURV/scholars/dairyko.html" target = "_blank">CURV</a>', "", "", "", "",
+"Ortega", "Omayra", "current", '<a href = "https://omayraortega.wixsite.com/math" target = "_blank">personal</a>', '<a href = "https://hardin47.github.io/CURV/scholars/ortega.html" target = "_blank">CURV</a>', "", "", "", "",
+"Castillo", "Alejandra", "current", '<a href = "https://www.linkedin.com/in/alejandra-m-castillo/" target = "_blank">Linkedin</a>', '<a href = "https://hardin47.github.io/CURV/scholars/castillo.html" target = "_blank">CURV</a>', "", "", "", "") %>%  arrange(lname)
 ```
 
 
