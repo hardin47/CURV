@@ -33,7 +33,7 @@ Du Bois was a sociologist who contributed to the field of data visualization thr
 
 #### Outside links
 
-* [wikipedia](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
+* [Wikipedia](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
 * [TidyTuesday data viz](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-02-16) and [TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-06-15) provided the data needed to re-create most of Du Bois's original graphs (his originals were drawn by hand).
 * [Data Journalism in the study of W.E.B. Du Bois](https://medium.com/nightingale/data-journalism-in-the-study-of-w-e-b-du-bois-the-negro-problem-part-2-of-4-e5ea9b976adc)
 * [W.E.B. Du Bois: retracing his attempt to challenge racism with data](https://www.theguardian.com/world/2017/feb/14/web-du-bois-racism-data-paris-african-americans-jobs)

@@ -1,0 +1,49 @@
+---
+title: "Edna Paisano"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Edna Paisano", fig.alt = "Image credit: unknown", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/paisano.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Edna Paisano
+
+https://awis.org/historical-women/edna-lee-paisano/
+
+https://www.bu.edu/lernet/pathways/bios.html
+
+https://en.wikipedia.org/wiki/Edna_Paisano
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+#### Outside links
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Edna_Paisano)
+* [AWIS](https://awis.org/historical-women/edna-lee-paisano/)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

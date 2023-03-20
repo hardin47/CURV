@@ -1,0 +1,48 @@
+---
+title: "Omayra Ortega"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Omayra Ortega", fig.alt = "Image credit: Omayra Ortega", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/ortega.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Omayra Ortega
+
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+#### Outside links
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Omayra_Ortega)
+* [MAD](https://www.mathad.com/profile?eghh2518208644514516177fjcc)
+* [Mathematically Gifted & Black](https://mathematicallygiftedandblack.com/honorees/omayra-ortega/)
+* [Lathisms](https://www.lathisms.org/calendar-2018/omayra-y-ortega)
+* [Linkedin](https://www.linkedin.com/in/omayra-ortega-94859bb/)
+* [personal](https://omayraortega.wixsite.com/math)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

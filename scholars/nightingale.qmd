@@ -39,7 +39,7 @@ knitr::include_graphics("../images/Nightingale-mortality.jpg")
 
 #### Outside links
 
-* [wikipedia](https://en.wikipedia.org/wiki/Florence_Nightingale)
+* [Wikipedia](https://en.wikipedia.org/wiki/Florence_Nightingale)
 
 
 

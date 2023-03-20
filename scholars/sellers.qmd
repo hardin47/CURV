@@ -42,9 +42,9 @@ Regression, version 0.8.0; http://cran.rproject.org/web/packages/COMPoissonReg/i
 
 #### Outside links
 
-* [wikipedia](https://en.wikipedia.org/wiki/Kimberly_Sellers)
+* [Wikipedia](https://en.wikipedia.org/wiki/Kimberly_Sellers)
 * [MAD](https://www.mathad.com/profile?baeb2518292539399974978bbaa)
-* [linkedin](https://www.linkedin.com/in/kimberly-sellers-7a5b3a126/)
+* [Linkedin](https://www.linkedin.com/in/kimberly-sellers-7a5b3a126/)
 * [personal](https://www.kimflaggsellers.com/)
 
 

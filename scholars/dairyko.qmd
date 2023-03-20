@@ -1,0 +1,49 @@
+---
+title: "Mike Dairyko"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Mike Dairyko", fig.alt = "Image credit: Will Stone", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/dairyko.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Mike Dairyko
+
+https://sinews.siam.org/Details-Page/from-academia-to-major-league-baseball-the-journey-of-a-data-scientist 
+
+https://math.iastate.edu/2017/10/17/an-industrious-approach/
+
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+#### Outside links
+
+* [MAD](https://www.mathad.com/profile?bfcc2518292545635991142facc)
+* [Linkedin](https://www.linkedin.com/in/mdairyko/)
+* [Google Scholar](https://scholar.google.com/citations?user=eHsKgKYAAAAJ&hl=en)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

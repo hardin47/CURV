@@ -12,15 +12,15 @@ library(knitr)
 ```{r echo = FALSE}
 scholars <- tribble(
   ~lname, ~fname, ~lived, ~`web_page`, ~`git_page`, ~topic_1, ~topic_2, ~app_1, ~app_2,
-  "Blackwell", "David", "1919-2010", '<a target="_top" href="https://en.wikipedia.org/wiki/David_Blackwell">wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/blackwell.html">CURV</a>', "decision theory", "Bayesian stats", "", "",
-  "Du Bois", "W.E.B", "1868-1963", '<a target="_top"  href="https://en.wikipedia.org/wiki/W._E._B._Du_Bois">wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/dubois.html">CURV</a>', "data viz", "", "", "",
+  "Blackwell", "David", "1919-2010", '<a target="_top" href="https://en.wikipedia.org/wiki/David_Blackwell">Wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/blackwell.html">CURV</a>', "decision theory", "Bayesian stats", "", "",
+  "Du Bois", "W.E.B", "1868-1963", '<a target="_top"  href="https://en.wikipedia.org/wiki/W._E._B._Du_Bois">Wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/dubois.html">CURV</a>', "data viz", "", "", "",
   "Benn", "Emma", "current", '<a target="_top"  href="https://icahn.mssm.edu/profiles/emma-k-benn">Mount Sinai</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/benn.html">CURV</a>', "cluster-randomized", "multinomial reg", "gender binary", "health disparities",
   
 #  "Vilas Boas", "Luciano", "current", '<a target="_top"  href="https://lucianovilasboas-69787.medium.com/">medium</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/vilasboas.html">CURV</a>', "logistic regression", "missingness", "student retention", "",
 
   "Santos", "Robert", "current", '<a target="_top"  href="https://www.census.gov/newsroom/bios/robert-santos.html">US Census Bureau</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/santos.html">CURV</a>', "regression", "undercounting", "housing discrimination", "",
   "Sellers", "Kim", "current", '<a target="_top"  href="https://gufaculty360.georgetown.edu/s/contact/00336000014RjHWAA0/kimberly-sellers">Georgetown Univeristy</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/sellers.html">CURV</a>', "Poisson regression", "Poisson distribution", "image analysis", "",
-  "Price", "Dionne", "current", '<a target="_top"  href="https://en.wikipedia.org/wiki/Dionne_Price">wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/price.html">CURV</a>', "clinical trials", "", "FDA regulations", "",
+  "Price", "Dionne", "current", '<a target="_top"  href="https://en.wikipedia.org/wiki/Dionne_Price">Wikipedia</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/price.html">CURV</a>', "clinical trials", "", "FDA regulations", "",
   "Randall", "Annie", "retired", '<a target="_top"  href="https://mathematicallygiftedandblack.com/honorees/annietrandall/">MGAB</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/randall.html">CURV</a>', "", "", "Nat Inst Mental Health", "",
   "Enders", "Felicity", "current", '<a target="_top"  href="https://www.mayo.edu/research/faculty/enders-felicity-t-ph-d/bio-00093556">Mayo Clinic</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/enders.html">CURV</a>', "logistic regression", "cross validation", "statistics education", "",
   "Jackson", "Monica", "current", '<a target="_top"  href="https://www.american.edu/cas/faculty/monica.cfm">American University</a>', '<a target="_top" href = "https://hardin47.github.io/CURV/scholars/jackson.html">CURV</a>', "spatial statistics", "disease surveillance", "", "",
@@ -30,8 +30,10 @@ scholars <- tribble(
   "Small-Rodriguez", "Desi", "current", '<a target = "_blank" href = "https://www.drdrdesi.com/">UCLA</a>','<a target = "_blank" href = "https://hardin47.github.io/CURV/scholars/small-rodriguez.html">CURV</a>', "data sovereignty", "data governance", "survey methods", "",
   "Nuzzo", "Regina", "current", '<a href = "https://www.reginanuzzo.com/" target = "_blank">Gallaudet</a>', '<a href = "https://hardin47.github.io/CURV/scholars/nuzzo.html" target = "_blank">CURV</a>', "p-values", "science communication", "", "",
   "Wright", "Tommy", "current", '<a href = "https://magazine.amstat.org/blog/2020/02/01/tommy-wright/" target = "_blank">ASA</a>', '<a href = "https://hardin47.github.io/CURV/scholars/wright.html" target = "_blank">CURV</a>', "sampling", "census", "optimal allocation", "",
-  "Nightingale", "Florence", "1820-1910", '<a href = "https://en.wikipedia.org/wiki/Florence_Nightingale" target = "_blank">wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/nightingale.html" target = "_blank">CURV</a>', "visualizations", "communication", "", "") %>%
-  arrange(lname)
+  "Nightingale", "Florence", "1820-1910", '<a href = "https://en.wikipedia.org/wiki/Florence_Nightingale" target = "_blank">Wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/nightingale.html" target = "_blank">CURV</a>', "visualizations", "communication", "", "",
+  "Paisano", "Edna", "1948-2014", '<a href = "https://en.wikipedia.org/wiki/Edna_Paisano" target = "_blank">Wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/paisano.html" target = "_blank">CURV</a>', "demography", "undercount", "", "",
+  "Mackey", "Lester", "current", '<a href = "http://stanford.edu/~lmackey/" target = "_blank">Stanford</a>', '<a href = "https://hardin47.github.io/CURV/scholars/mackey.html" target = "_blank">CURV</a>', "statistical machine learning", "scalable algorithms", "approximate inference", "",
+"Cruz", "Maricela", "current", '<a href = "https://www.kpwashingtonresearch.org/our-research/our-scientists/cruz-maricela" target = "_blank">Kaiser Permanente</a>', '<a href = "https://hardin47.github.io/CURV/scholars/cruz.html" target = "_blank">CURV</a>', "time series", "intervention", "multi-level models", "longitudinal") %>%  arrange(lname)
 ```
 
 

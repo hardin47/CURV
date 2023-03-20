@@ -1,0 +1,58 @@
+---
+title: "Maricela Cruz"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Maricela Cruz", fig.alt = "Image credit: Maricela Cruz", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/cruz.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Maricela Cruz
+
+Dr. Cruz did her undergraduate work at Pomona College, majoring in mathematics.  Her PhD in Statistics is from University of California, Irvine.  She is now Assistant Biostatistics Investigator, Kaiser Permanente Washington Health Research Institute (KPWHRI) and Affiliate Assistant Investigator, Department of Biostatistics, University of Washington.
+
+In an <a href = "https://www.lathisms.org/calendar-2022s/maricela-cruz" target = "_blank">interview done by Lathisms</a>, Dr. Cruz reminds us:
+
+>Navigating institutions that have systematically excluded groups of people can be taxing, especially for people from one or more of these groups. Surround yourself with those who believe in you, give you the space to ask ‘silly’ questions, value your input, and/or understand your struggles. Do activities that will help you blow off steam. No one person or activity will meet all your support needs, so find the right group and balance for you.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Dr. Cruz's dissertation work was on interrupted time series models used to determine intervention timing. Indeed, her primary research questions are to understand complex health interventions.  At KPWHRI she has continued to work on epidemiological methods, particularly those appropriate for longitudinal and multilevel data.
+
+#### Relevant work
+
+* Cruz M, Ombao H, Gillen DL, <a href = "https://link.springer.com/article/10.1007/s12561-022-09346-6" target = "_blank">A Generalized Interrupted Time Series Model for
+Assessing Complex Health Care Interventions.</a> **Statistics in Biosciences**, 2022.
+
+* Cruz M, Gillen DL, Bender M, & Ombao H, <a href = "https://onlinelibrary.wiley.com/doi/10.1002/sim.8067" target = "_blank">Assessing health care interventions via
+an interrupted time series model: study power and design considerations</a>. **Statistics in
+Medicine**, 2019. 
+
+#### Outside links
+
+* [Lathisms](https://www.lathisms.org/calendar-2022s/maricela-cruz)
+* [Linkedin](https://www.linkedin.com/in/maricela-cruz-3285907a/)
+* [Kaiser Permanente](https://www.kpwashingtonresearch.org/our-research/our-scientists/cruz-maricela)
+
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

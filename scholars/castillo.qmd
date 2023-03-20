@@ -1,0 +1,49 @@
+---
+title: "Alejandra Castillo"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Alejandra Castillo", fig.alt = "Image credit: Alejandra Castillo", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/castillo.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Alejandra Castillo
+
+In an <a href = "https://blogs.ams.org/mathmentoringnetwork/2020/07/31/staying-the-path-motivation-through-graduate-school/" target = "_blank">interview</a> done by <a href = "https://sites.google.com/view/mathswagger/home" target = "_blank">Math SWAGGER (The Mathematics Summer Workshop for Achieving Greater Graduate Educational Readiness)</a>, Castillo tells us:
+
+>I can’t help but think about how helpful having these conversations would have been prior to beginning graduate school. This is why I am very excited to learn and share what I’ve learned with incoming graduate students.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+#### Outside links
+
+
+* [Lathisms](https://www.lathisms.org/calendar-2022s/alejandra-castillo)
+* [Linkedin](https://www.linkedin.com/in/alejandra-m-castillo/)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

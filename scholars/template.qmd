@@ -29,9 +29,9 @@ output:
 
 #### Outside links
 
-* [wikipedia]()
+* [Wikipedia]()
 * [MAD]()
-* [linkedin]()
+* [Linkedin]()
 * [personal]()
 
 
