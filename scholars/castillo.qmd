@@ -28,8 +28,13 @@ In an <a href = "https://blogs.ams.org/mathmentoringnetwork/2020/07/31/staying-t
 
 #### Topics covered
 
+Castillo's research lies at the intersection of unsupervised learning, dimension reduction, and inference, with applications in clinical trial design.  Some of her work explores how to use baseline demographic information collected before randomization to a clinical trial, particularly as the baseline information changes during the course of the trial.  Her more recent work investigates sparse solutions to clustering problems.
 
 #### Relevant work
+
+* Castillo A. <a href = "https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/vq27zv110" target = "_blank">On the Use of Baseline Values in Randomized Clinical Trials</a>, MS Thesis, Oregon State, 2019.
+
+* Chiu J, Castillo A, Tucker I, Radunskaya A, McDowell A. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0927776522003095" target = "_blank">Modeling the interaction of polymeric nanoparticles functionalized with cell penetrating peptides at the nano-bio interface</a>. **Colloids Surf B: Biointerfaces**, 2022.
 
 #### Outside links
 
@@ -37,8 +42,6 @@ In an <a href = "https://blogs.ams.org/mathmentoringnetwork/2020/07/31/staying-t
 * [Lathisms](https://www.lathisms.org/calendar-2022s/alejandra-castillo)
 * [Linkedin](https://www.linkedin.com/in/alejandra-m-castillo/)
 
-
-####  Other
 
 
 ----------------------
