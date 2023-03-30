@@ -1,0 +1,56 @@
+---
+title: "Liz Hare"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Liz Hare", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/hare.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Liz Hare
+
+http://www.doggenetics.com/hare_cv19.1.pdf
+
+RE: alt text
+
+>you really need to tell us what the data is saying and why you included it.
+
+MiR - minorities in R, https://mircommunity.com/
+
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+* L. Hare, <a href = "https://www.urban.org/sites/default/files/2022-12/Do%20No%20Harm%20Guide%20Centering%20Accessibility%20in%20Data%20Visualization.pdf#page=31&zoom=100,0,0" target = "_blank">Writing Alt Text to Communicate the Meaning in Data Visualizations</a>, **Do No Harm Guide: centering accessibility in data visualization**, eds Schwabish, Popkin, Feng, Chapter 4, 2022.
+
+#### Outside links
+
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=a324TmAAAAAJ&view_op=list_works&sortby=pubdate)
+* [Linkedin](https://www.linkedin.com/in/liz-hare-phd-1a50925/)
+* [professional](http://www.doggenetics.com/)
+* [fosstodon](https://fosstodon.org/@lizhare)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

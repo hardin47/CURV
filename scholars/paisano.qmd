@@ -17,11 +17,8 @@ knitr::include_graphics("../images/paisano.jpg")
 :::{.g-col-8}
 # Edna Paisano
 
-https://awis.org/historical-women/edna-lee-paisano/
+Paisano was born on the Nez Perce Reservation in Idaho and has additional ancestral roots with the Laguna Pueblo people.  She went to Boise State University (fka Boise Junior College) and transferred to the University of Washington where she earned a BA in sociology (1971) and a master's degree in social work (1973).  Among other jobs for the federal government, Paisano spent most of her career at the Department of Commerce, Bureau of Census, Racial Statistics, Population Division as principal statistician.
 
-https://www.bu.edu/lernet/pathways/bios.html
-
-https://en.wikipedia.org/wiki/Edna_Paisano
 :::
 
 :::
@@ -29,16 +26,24 @@ https://en.wikipedia.org/wiki/Edna_Paisano
 
 #### Topics covered
 
+As a statistician at the Census Bureau (for over 20 years), Paisano was responsible for developing enumeration formulas that changed the way tribes were being counted in the census.  In particular, after her work was implemented, the number of Native Americans counted in the 1990 census went up 38% (as compared to the 1980 census). The recalculation of population numbers changed the way that funding was allocated to Native Americans via federal programs.
 
 #### Relevant work
+
+* E. Paisano, <a href = "https://www.census.gov/library/publications/1993/dec/we-05.html" target = "_blank">We, the First Americans</a>.  **United States Census Bureau**, 1993.
+
+* E. Paisano, <a href = "https://www.census.gov/library/publications/1993/dec/we-04.html" target = "_blank">We, the American Pacific Islanders</a>.  **United States Census Bureau**, 1993.
+
+
+* E. Paisano, <a href = "https://www.census.gov/library/publications/1993/dec/we-03.html" target = "_blank">We, the American Asians</a>.  **United States Census Bureau**, 1993.
+
 
 #### Outside links
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Edna_Paisano)
 * [AWIS](https://awis.org/historical-women/edna-lee-paisano/)
+* [obituary](http://malcomsfuneralhome.com/obituaries/edna-paisano/)
 
-
-####  Other
 
 
 ----------------------
