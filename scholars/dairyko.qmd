@@ -28,7 +28,7 @@ Dr. Dairyko served as a Senior Manager of Data Science at the Milwaukee Brewers 
 
 #### Topics covered
 
-Dr. Dairyko's graduate work is in graph theory, in particular, exponential domination.  In a graph, exponential domination is the extent to which a particular vertex influences the remaining vertices in a graph.  His published work falls very much within the realm of mathematics, proving that particular properties of graphs exist.  However, graph theory is intimately related to machine learning; for example, it is the foundational structure of a neural network.  Understanding properties of graphs help data scientists develop even more powerful models to harness the information in a dataset.  
+Dr. Dairyko's graduate work is in graph theory, in particular, exponential domination.  In a graph, exponential domination is the extent to which a particular vertex influences the remaining vertices in a graph.  His published work falls very much within the realm of mathematics, proving that particular properties of graphs exist.  However, graph theory is intimately related to machine learning; for example, it is the foundational structure of a neural network.  Understanding properties of graphs help data scientists develop even more powerful models to harness information from data.
 
 #### Relevant work
 
@@ -46,7 +46,7 @@ Dr. Dairyko's graduate work is in graph theory, in particular, exponential domin
 
 ####  Other
 
-Dr. Dairyko's path from mathematics to data science has been written about in <a href = "https://sinews.siam.org/Details-Page/from-academia-to-major-league-baseball-the-journey-of-a-data-scientist " target = "_blank">SIAM</a> and in the Iowa State University newsletter<a href= "https://math.iastate.edu/2017/10/17/an-industrious-approach/" target = "_blank">Math Matters</a>.
+Dr. Dairyko's path from mathematics to data science has been written about in <a href = "https://sinews.siam.org/Details-Page/from-academia-to-major-league-baseball-the-journey-of-a-data-scientist " target = "_blank">SIAM</a> and in the Iowa State University newsletter <a href= "https://math.iastate.edu/2017/10/17/an-industrious-approach/" target = "_blank">Math Matters</a>.
 
 ----------------------
 
