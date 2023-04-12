@@ -1,0 +1,52 @@
+---
+title: "Talithia Williams"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Talithia Williams", fig.alt = "Image credit: Harvey Mudd College", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/williams.jpeg")
+```
+:::
+
+:::{.g-col-8}
+# Talithia Williams
+
+Dr. Williams got a BS in Mathematics from Spellman College, an MS in Mathematics from Howard University, and a PhD (2008) in Statistics from Rice University.
+
+from HMC:  statistical models which emphasize the spatial and temporal structure of data, and applies them to problems in the environment. She has partnered with the World Health Organization in developing a cataract model used to predict the cataract surgical rate for countries in Africa. Her research interests also include nonstationary covariance estimation and change-of-support problem
+:::
+
+:::
+
+
+#### Topics covered
+
+
+#### Relevant work
+
+
+
+#### Outside links
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Talithia_Williams)
+* [MAD](https://www.mathad.com/profile?agje2518292535222328053fbci)
+* [Linkedin](https://www.linkedin.com/in/talithia-williams-7542b0b4/)
+* [personal](https://www.talithiawilliams.com/)
+
+
+####  Other
+
+Dr. Williams was the co-host of the 2018 <a href = "https://www.pbs.org/wgbh/nova/?s=talithia" target = "_blank>PBS Nova Wonders series</a>.
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

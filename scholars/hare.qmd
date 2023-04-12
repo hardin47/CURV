@@ -17,13 +17,9 @@ knitr::include_graphics("../images/hare.jpg")
 :::{.g-col-8}
 # Liz Hare
 
-http://www.doggenetics.com/hare_cv19.1.pdf
+Dr. Hare got her BA from Bryn Mawr College and her PhD in Genetics (1998) from The George Washington University. She works primarily in dog / animal genetics; although, as a quantitative geneticist her statistical and computational methodology is quite sophisticated.
 
-RE: alt text
-
->you really need to tell us what the data is saying and why you included it.
-
-MiR - minorities in R, https://mircommunity.com/
+Dr. Hare is active in the <a href = "https://mircommunity.com/about/" target = "_blank">MiR (Minorities in R) Community</a> which aims to support historically underrepresented R users around the world.
 
 :::
 
@@ -32,6 +28,16 @@ MiR - minorities in R, https://mircommunity.com/
 
 #### Topics covered
 
+Her computational language of choice is `R`, and much of her work has focused on open science with an eye toward inclusion and equity.  In many software programs, the user has the ability to include **alt text**: text descriptions
+that convey the content and meaning to blind and low-vision
+readers.
+
+>you really need to tell us what the data is saying and why you included it.
+
+1. What kind of graph or chart is it?
+2. What variables are on the axes?
+3. What are the ranges of the variables?
+4. What does the appearance tell you about the relationships between the variables?
 
 #### Relevant work
 
