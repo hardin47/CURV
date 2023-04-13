@@ -51,8 +51,6 @@ readers.
 * [fosstodon](https://fosstodon.org/@lizhare)
 
 
-####  Other
-
 
 ----------------------
 

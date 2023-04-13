@@ -17,9 +17,8 @@ knitr::include_graphics("../images/williams.jpeg")
 :::{.g-col-8}
 # Talithia Williams
 
-Dr. Williams got a BS in Mathematics from Spellman College, an MS in Mathematics from Howard University, and a PhD (2008) in Statistics from Rice University.
+Dr. Williams earned a BS in Mathematics from Spelman College, an MS in Mathematics from Howard University, and a PhD (2008) in Statistics from Rice University.  Dr. Williams is Associate Professor and Director of the Clinic Program at Harvey Mudd College.  She has also served as Associate Dean for Faculty Development and Diversity at Harvey Mudd.
 
-from HMC:  statistical models which emphasize the spatial and temporal structure of data, and applies them to problems in the environment. She has partnered with the World Health Organization in developing a cataract model used to predict the cataract surgical rate for countries in Africa. Her research interests also include nonstationary covariance estimation and change-of-support problem
 :::
 
 :::
@@ -27,8 +26,14 @@ from HMC:  statistical models which emphasize the spatial and temporal structure
 
 #### Topics covered
 
+Dr. Williams works on statistical models which describe spatial and temporal aspects of data.  Some of her most important work has focused on developing models to predict cataract surgical rates for countries in Africa.
 
 #### Relevant work
+
+
+* Dray, A. and Williams, T. <a href = " https://doi.org/10.1002/sim.5423" target = "_blank">An incidence estimation model for multi-stage diseases with differential mortality</a>. **Statistics in Medicine**, 2012. 
+
+* Lewallen, S., Courtright, P., Etya'ale, D., Mathenge, W., Schmidt, E., Oye, J., Clark, A., Williams, T. <a href = "https://doi.org/10.3109/09286586.2013.823215" target = "_blank">Cataract Incidence in Sub-Saharan Africa: What does Mathematical Modeling tell us about Geographic Variations and Surgical Needs?</a>. **Ophthalmic epidemiology**, 2013.
 
 
 
