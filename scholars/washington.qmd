@@ -1,0 +1,54 @@
+---
+title: "Talitha Washington"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Talitha Washington", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/washington.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Talitha Washington
+
+Professor Washington earned a Bachelor of Science in Mathematics from Spelman College and an MS and PhD (2001) in from the University of Connecticut.  She is the inaugural Director of the <a href = "https://datascience.aucenter.edu/" target = "_blank">Atlanta University Center (AUC) Data Science Initiative</a>, a Professor of Mathematics at Clark Atlanta University and an affiliate faculty at Morehouse College, Morehouse School of Medicine, and Spelman College.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Professor Washington's training is in ordinary and partial differential equations which she applies to problems in biology and engineering.  Recently, however, her efforts have been to facilitate data science at the Atlanta University Center, a consortium consisting of Clark Atlanta University, Morehouse College, Morehouse School of Medicine, and Spelman College. They organize workshops, summer programs, learning communities, data challenges, and funding opportunities.
+
+#### Relevant work
+
+* Adekanye, O., Washington, T. <a href = "https://doi.org/10.1016/j.apm.2018.05.027" target = "_blank">Nonstandard finite difference scheme for a Tacoma Narrows Bridge model</a>. **Applied Mathematical Modelling**, 2018.
+
+* Mickens, R., Munyakazi, J., Washington, T. <a href = "https://doi.org/10.1080/10236198.2015.1034118" target = "_blank">A note on the exact discretization for a Cauchy-Euler equation: application to the Black-Scholes equation</a>. **Journal of Difference Equations and Applications**, 2015.
+
+* Goins, Edray Herber; Washington, Talitha M. <a href = "
+https://doi.org/10.48550/arXiv.0909.5459" target = "_blank">On the generalized climbing stairs problem</a>. **Ars Combinatorics**, 2014. 
+
+#### Outside links
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Talitha_Washington)
+* [MAD](https://www.mathad.com/profile?bccb2518292536841262625bbcj)
+* [Linkedin](https://www.linkedin.com/in/talithawashington/)
+* [personal](http://www.talithawashington.com/)
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
