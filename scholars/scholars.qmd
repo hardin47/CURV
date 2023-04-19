@@ -39,7 +39,7 @@ scholars <- tribble(
 "Castillo", "Alejandra", "current", '<a href = "https://www.linkedin.com/in/alejandra-m-castillo/" target = "_blank">Linkedin</a>', '<a href = "https://hardin47.github.io/CURV/scholars/castillo.html" target = "_blank">CURV</a>', "clinical trials", "clustering", "machine learning", "",
 "Williams", "Talithia", "current", '<a href = "https://www.talithiawilliams.com/" target = "_blank">personal</a>', '<a href = "https://hardin47.github.io/CURV/scholars/williams.html" target = "_blank">CURV</a>', "spatial data", "covariance estimation", "", "",
 "Hare", "Liz", "current", '<a href = "http://doggenetics.com/" target = "_blank">personal</a>', '<a href = "https://hardin47.github.io/CURV/scholars/hare.html" target = "_blank">CURV</a>', "accessibility", "statistical genetics", "", "",
-"Washington", "Talitha", "current", '<a href = "http://www.talithawashington.com/" target = "_blank">personal</a>', '<a href = "https://hardin47.github.io/CURV/scholars/washington.html" target = "_blank">CURV</a>', "ODE & PDE", "data science initiatives", "", "") %>%  arrange(lname)
+"Washington", "Talitha", "current", '<a href = "http://www.talithawashington.com/" target = "_blank">personal</a>', '<a href = "https://hardin47.github.io/CURV/scholars/washington.html" target = "_blank">CURV</a>', "ODsE & PDEs", "data science initiatives", "", "") %>%  arrange(lname)
 ```
 
 

@@ -1,0 +1,60 @@
+---
+title: "Joy Buolamwini"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Joy Buolamwini", fig.alt = "Image credit: Joy Buolamwini", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/buolamwini.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Joy Buolamwini
+
+Dr. Buolamwini earned a BS in Computer Science from Georgia Institute of Technology, an Master's from University of Oxford, and MS and PhD (2022) degrees in Media Arts & Sciences from Massachusetts Institute of Technology.  While a graduate student, Dr. Buolamwini was part of the <a href = "https://www.media.mit.edu/" target = "_blank">MIT Media Lab</a>.  Additionally, she is the founder of the <a href = "https://www.ajl.org/" target = "_blank">Algorithmic Justice League</a>.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Dr. Buolamwini has done substantial work demonstrating how algorithms can encode bias.  Her undergraduate senior project was to create a inspired "mask" mirror as a way to raise spirits for the person who looked into the mirror.  The project relied on off the shelf facial recognition software that could not recognize Dr. Buolamwini's face.
+
+Since then, she has focused her work on demonstrating bias across racial and gender spectra in off the shelf software.  Her work has been <a href = "https://www.biometricupdate.com/202003/tech-giants-pressured-to-follow-google-in-removing-gender-labels-from-computer-vision-services" target = "_blank">cited</a> as directly influencing Microsoft and Google's changes to their algorithms.
+
+Among many other aspects, a big focus of Dr. Buolamwini's work is pointing out the biased data which directly impacts how algorithms learn how to do tasks.
+
+
+#### Relevant work
+
+* Buolamwini, J., Gebru, T. <a href = "https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf" target = "_blank">Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.</a> Proceedings of Machine Learning Research 81:1–15, 2018 Conference on Fairness, Accountability, and Transparency.
+
+* Raji, I & Buolamwini, J. <a href = "https://doi.org/10.1145/3306618.3314244" target = "_blank">Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products.</a> Conference on Artificial Intelligence, Ethics, and Society, 2019
+
+#### Outside links
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Joy_Buolamwini)
+* [Linkedin](https://www.linkedin.com/in/buolamwini/)
+* [personal](https://www.poetofcode.com/)
+
+
+####  Other
+
+Dr. Buolamwini has done a lot of work on how data propagates through systems to encode the same types of bias into different algorithms.  In her video <a href = "https://www.youtube.com/watch?v=QxuyfWoVV98" target = "_blank">AI, Ain't I a Woman?</a> she demonstrates how systems designed to determine gender are particularly poor when using dark skinned faces.
+
+Her work was featured in a recent documentary <a href = "https://www.codedbias.com/" target = "_blank">Coded Bias</a>.
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
