@@ -31,11 +31,13 @@ Nightingale was a nurse and statistician who used her analytic abilities to bett
 
 #### Relevant work
 
-* RJ Andrews, "Florence Nightingale's Data Revolution" in Scientific American 327, 2, 78-85, 2022. doi:10.1038/scientificamerican0822-78, https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/
+* RJ Andrews, <a href = "https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/" target = "_blank">"Florence Nightingale's Data Revolution"</a> in Scientific American 327, 2, 78-85, 2022. doi:10.1038/scientificamerican0822-78, 
 
 ```{r fig.cap = ' "Diagram of the causes of mortality in the army in the East" was published in Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army and sent to Queen Victoria in 1858.', fig.alt = "Image credit: Florence Nightingale, work is in the public domain ", preview = TRUE, echo = FALSE}
 knitr::include_graphics("../images/Nightingale-mortality.jpg")
 ```
+
+* S Julious, <a href = "https://www.sheffieldtribune.co.uk/p/on-the-battlefields-of-the-crimean" target = "_blank">"On the battlefields of the Crimean War and in the hills of Sheffield, Florence Nightingale's legacy lives on"</a>, The Tribune, Feb 17, 2023. 
 
 #### Outside links
 
