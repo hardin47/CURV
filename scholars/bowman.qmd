@@ -17,9 +17,9 @@ knitr::include_graphics("../images/bowman.jpg")
 :::{.g-col-8}
 # DuBois Bowman
 
-Dr. Bowman is Dean of the School of Public Health at the University of Michigan. He did his undergradute work at Morehouse College in mathematics, also taking all of the pre-med requirements. Subsequently, he earned an MS in Biostatistics from the University of Michigan and a PhD in Biostatistics from UNC, Chapel Hill. He was faculty at both Emory University and Columbia University before becoming Roderick J. Little Collegiate Professor of Biostatistics and Dean of the School of Public Health at Michigan.
+Dr. Bowman is Dean of the School of Public Health at the University of Michigan. He did his undergraduate work at Morehouse College in mathematics, also taking all of the pre-med requirements. Subsequently, he earned an MS in Biostatistics from the University of Michigan and a PhD in Biostatistics from UNC, Chapel Hill. He was faculty at both Emory University and Columbia University before becoming Roderick J. Little Collegiate Professor of Biostatistics and Dean of the School of Public Health at Michigan in 2018.
 
-He is an elected fellow of the American Statistical Asssociation and the American Association for the Advancement of Science. He is an elected member of the National Academy of Medicine.
+He is an elected fellow of the American Statistical Association and the American Association for the Advancement of Science. He is an elected member of the National Academy of Medicine.
 
 :::
 
@@ -28,11 +28,13 @@ He is an elected fellow of the American Statistical Asssociation and the America
 
 #### Topics covered
 
-Dr. Bowman's expertise is in the analysis of large complex datasets. In paticular he works on imaging data (e.g., fMRI data) to find insights into Parkinson's Disease.
+Dr. Bowman's expertise is in the analysis of large complex datasets. In particular he works on imaging data (e.g., fMRI data) to find insights into Parkinson's Disease.
 
 Under Dr. Bowman's leadership, Michigan Public Health launched a school-wide interdisciplinary research initiative pursuing innovative solutions to prevent firearm injuries, create healthy and equitable cities, control infectious diseases, and pursue health equity. 
 
 #### Relevant work
+
+Worth noting that he has continued his scholarship in statistics while leading the School of Public Health.
 
 * Lee, S., Choi, J., Fang, Z., Bowman, F.D. (2023). Longitudinal Canonical Correlation Analysis. *Journal of the Royal Statistical Society - Series C (Applied Statistics): 72*(3), 587-607.
 
