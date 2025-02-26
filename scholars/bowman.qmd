@@ -1,5 +1,5 @@
 ---
-title: "Dubois Boman"
+title: "DuBois Boman"
 layout: default
 output:
   html_document:
