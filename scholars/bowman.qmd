@@ -1,0 +1,56 @@
+---
+title: "Dubois Boman"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "DuBois Bowman", fig.alt = "Image credit: wikipedia", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/bowman.jpg")
+```
+:::
+
+:::{.g-col-8}
+# DuBois Bowman
+
+Dr. Bowman is Dean of the School of Public Health at the University of Michigan. He did his undergradute work at Morehouse College in mathematics, also taking all of the pre-med requirements. Subsequently, he earned an MS in Biostatistics from the University of Michigan and a PhD in Biostatistics from UNC, Chapel Hill. He was faculty at both Emory University and Columbia University before becoming Roderick J. Little Collegiate Professor of Biostatistics and Dean of the School of Public Health at Michigan.
+
+He is an elected fellow of the American Statistical Asssociation and the American Association for the Advancement of Science. He is an elected member of the National Academy of Medicine.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+Dr. Bowman's expertise is in the analysis of large complex datasets. In paticular he works on imaging data (e.g., fMRI data) to find insights into Parkinson's Disease.
+
+Under Dr. Bowman's leadership, Michigan Public Health launched a school-wide interdisciplinary research initiative pursuing innovative solutions to prevent firearm injuries, create healthy and equitable cities, control infectious diseases, and pursue health equity. 
+
+#### Relevant work
+
+* Lee, S., Choi, J., Fang, Z., Bowman, F.D. (2023). Longitudinal Canonical Correlation Analysis. *Journal of the Royal Statistical Society - Series C (Applied Statistics): 72*(3), 587-607.
+
+* Drake, D. F., Derado, G., Zhang, L., Bowman, F. D. (2023). Neuroimaging Statistical Approaches for Determining Neural Correlates of Alzheimer's Disease via PET Imaging. *Wiley Interdisciplinary Reviews (WIREs): Computational Statistics: 15* (5), e1606. 
+
+* Chen, S., Bowman, F. D., Xing, Y. (2020). Detecting and Testing Altered Brain Connectivity Networks with K-partite Network Topology. *Computational Statistics and Data Analysis: 141*, 109–122.
+
+#### Outside links
+
+* [Wikipedia](https://en.wikipedia.org/wiki/F._DuBois_Bowman)
+* [Linkedin](https://www.linkedin.com/in/dubois-bowman/)
+* [faculty profile](https://sph.umich.edu/faculty-profiles/bowman-f-dubois.html)
+
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
