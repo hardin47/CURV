@@ -1,0 +1,60 @@
+---
+title: "Adrian Coles"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Adrian Coles", fig.alt = "Image credit: Adrian Coles", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/coles.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Adrian Coles
+
+Out of high school, Dr. Coles served in the Marine Corps after which he went to college in order to become a math teacher. 
+In college, he fell in love with statistics, getting a BA in mathematics from UNC, Wilmington. Dr. Coles then received his MS and PhD in Statistics from NC State University.
+He is currently Director of Biostatistics at Biogen, and he previously worked at Bristol Myers Squibb, Eli Lilly, Duke University, and Quintiles.
+
+He <a href = "https://mathematicallygiftedandblack.com/honorees/adrian-coles/" target = "_blank">describes</a> his early childhood:
+
+> I was born and raised in a socioeconomically disadvantaged community in Danville VA. Not only was my family poor, but my hometown was the last capital of the Confederacy. The lack of resources combined with unresolved racial tensions in the city created a challenging environment for a young African American boy. As one can imagine, this environment exemplified the racial-ethnic disparities that result from a lack of racial justice. I’ve witnessed, firsthand, many naturally gifted members of my community fall victim to institutionalized racism in one way or another. This has motivated me to work hard to increase racial-ethnic diversity within math and statistics and to help create inclusive cultures that are characterized by social and professional equity for all. 
+
+
+:::
+
+:::
+
+
+#### Topics covered
+
+As a statistician working on clinical trials, Dr. Coles has published on medical studies addressing diseases such as lupus, coronary artery disease, pneumonia, and heart failure.  
+
+In particular, he has been involved in the <a href = "https://www.acc.org/Latest-in-Cardiology/Clinical-Trials/2015/03/11/21/52/PROMISE-Imaging" target = "_blank">Prospective Multicenter Imaging Study for Evaluation of Chest Pain trial</a> - PROMISE.
+
+> Among women, a positive CTA (computed tomography angiography) vs. a negative CTA was more strongly associated with subsequent clinical events (hazard ratio [HR] 5.9, 95% confidence interval [CI] 3.3-10.4) than a positive stress test vs. a negative stress test (HR 2.3, 95% CI 1.2-4.3). Among men, the association between a positive CTA vs. a negative CTA was HR 2.8, 95% CI 1.8-4.5, and a positive stress test vs. a negative stress test was HR 4.4, 95% CI 2.8-7.1.
+
+#### Relevant work
+
+Januzzi JL Jr, Suchindran S, Coles A, et al., on behalf of the PROMISE Investigators. High-Sensitivity Troponin I and Coronary Computed Tomography in Symptomatic Outpatients With Suspected CAD: Insights From the PROMISE Trial. **JACC Cardiovasc Imaging** 2019;12:1047-55.
+
+
+Pagidipati NJ, Hemal K, Coles A, et al. Sex Differences in Functional Stress Test Versus CT Angiography in Symptomatic Patients With Suspected CAD: Insights From PROMISE. **J Am Coll Cardiol** 2016 Jun 7;67(22):2607-16.
+
+#### Outside links
+
+* [MAD](https://mathematicallygiftedandblack.com/honorees/adrian-coles/)
+* [Linkedin](https://www.linkedin.com/in/adrian-coles/)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=E_NB88cAAAAJ&view_op=list_works)
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+
