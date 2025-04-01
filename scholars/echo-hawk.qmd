@@ -1,0 +1,58 @@
+---
+title: "Abigail Echo-Hawk"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Abigail Echo-Hawk", fig.alt = "Image credit: Abigail Echo-Hawk", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/echo-hawk.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Abigail Echo-Hawk
+
+Abigail Echo-Hawk is a citizen of the Pawnee Nation, Executive Vice President, Seattle Indian Health Board, and Director, <a href = "http://www.uihi.org/" target = "_blank">Urban Indian Health Institute.</a>
+She received an bachelor's degree from the University of Washington, Bothell and an MA in Policy Studies from the University of Washington, Seattle.
+
+
+:::
+
+:::
+
+
+#### Topics covered
+
+As a public health researcher, Ms. Echo-Hawk's work focuses on using data to promote racial equality. In particular, she uses data to dismantle stereotypes and appeal for grant funding and other resources to support her community. <a href = "https://www.cascadepbs.org/2019/05/abigail-echo-hawk-art-and-science-decolonizing-data" target = "_blank">In conversation,</a> she describes the motivation and importance of her work:
+
+> Decolonizing data means that the community itself is the one determining what is the information they want us to gather. Why are we gathering it? Who's interpreting it? And are we interpreting it in a way that truly serves our communities? Decolonizing data is about controlling our own story, and making decisions based on what is best for our people. That hasn't been done in data before, and that's what's shifting and changing.
+
+> One of the ways that there is a continuing genocide against American Indians/Alaska Natives is through data. When we are invisible in the data, we no longer exist. When I see an asterisk that says "not statistically significant," or they lump us together with Pacific Islanders and Asian Americans — you can't lump racial groups together. That is bad data practice.
+
+
+#### Relevant work
+
+Manola Secaira, <a href = "https://www.cascadepbs.org/2019/05/abigail-echo-hawk-art-and-science-decolonizing-data" target = "_blank">Abigail Echo-Hawk on the art and science of 'decolonizing data'</a>, **Cascade PBS**, May 31, 2019. 
+
+<a href = "https://www.uihi.org/data-dashboard/" target = "_blank">Urban Indian Health Institute - Data Dashboard</a>
+
+#### Outside links
+
+* [Linkedin](https://www.linkedin.com/in/abigail-echo-hawk-4a213030/)
+* [NYT: The Unapologetic 'Auntie' of Indigenous Data](https://www.nytimes.com/2023/12/12/health/indigenous-data-abigail-echo-hawk.html)
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+[GitHub repository](https://github.com/hardin47/CURV/)
+

@@ -43,7 +43,8 @@ scholars <- tribble(
 "Buolamwini", "Joy", "current", '<a href = "https://www.poetofcode.com/" target = "_blank">personal</a>', '<a href = "https://hardin47.github.io/CURV/scholars/buolamwini.html" target = "_blank">CURV</a>', "biased data", "biased algorithms", "", "",
 "Rosenbluth", "Arianna", "1927-2020", '<a href = "https://en.wikipedia.org/wiki/Arianna_W._Rosenbluth" target = "_blank">Wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/rosenbluth.html" target = "_blank">CURV</a>', "Metropolis algorithm", "MCMC", "", "",
 "Bowman", "DuBois", "current", '<a href = "https://en.wikipedia.org/wiki/F._DuBois_Bowman" target = "_blank">Wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/bowman.html" target = "_blank">CURV</a>', "image analysis", "large datasets", "", "",
-"Coles", "Adrian", "current", '<a href = "https://mathematicallygiftedandblack.com/honorees/adrian-coles/" target = "_blank">MAD</a>', '<a href = "https://hardin47.github.io/CURV/scholars/coles.html" target = "_blank">CURV</a>', "survival analysis", "biopharm", "", ""
+"Coles", "Adrian", "current", '<a href = "https://mathematicallygiftedandblack.com/honorees/adrian-coles/" target = "_blank">MAD</a>', '<a href = "https://hardin47.github.io/CURV/scholars/coles.html" target = "_blank">CURV</a>', "survival analysis", "biopharm", "", "",
+"Echo-Hawk", "Abigail", "current", '<a href = "https://www.linkedin.com/in/abigail-echo-hawk-4a213030/" target = "_blank">LinkedIn</a>', '<a href = "https://hardin47.github.io/CURV/scholars/echo-hawk.html" target = "_blank">CURV</a>', "decolonizing data", "public health", "", ""
 ) |>  arrange(lname)
 ```
 
