@@ -17,8 +17,8 @@ knitr::include_graphics("../images/echo-hawk.jpg")
 :::{.g-col-8}
 # Abigail Echo-Hawk
 
-Abigail Echo-Hawk is a citizen of the Pawnee Nation, Executive Vice President, Seattle Indian Health Board, and Director, <a href = "http://www.uihi.org/" target = "_blank">Urban Indian Health Institute.</a>
-She received an bachelor's degree from the University of Washington, Bothell and an MA in Policy Studies from the University of Washington, Seattle.
+Abigail Echo-Hawk is a citizen of the Pawnee Nation of Oklahoma, and she was born and raised in Alaska as a member of the upper Ahtna Athabascan people.  Currently she serves as Executive Vice President, Seattle Indian Health Board and Director, <a href = "http://www.uihi.org/" target = "_blank">Urban Indian Health Institute.</a>
+She received an bachelor's degree in American & Ethnic Studies and a minor in Human Rights from the University of Washington, Bothell and an MA in Policy Studies from the University of Washington, Seattle.
 
 
 :::
@@ -40,6 +40,8 @@ As a public health researcher, Ms. Echo-Hawk's work focuses on using data to pro
 Manola Secaira, <a href = "https://www.cascadepbs.org/2019/05/abigail-echo-hawk-art-and-science-decolonizing-data" target = "_blank">Abigail Echo-Hawk on the art and science of 'decolonizing data'</a>, **Cascade PBS**, May 31, 2019. 
 
 <a href = "https://www.uihi.org/data-dashboard/" target = "_blank">Urban Indian Health Institute - Data Dashboard</a>
+
+<a href = "https://www.uihi.org/health-initiative/our-bodies-our-stories/" target = "_blank">Our Bodies, Our Stories,</a>, **Urban Indian Health Institute**, 2018.
 
 #### Outside links
 
