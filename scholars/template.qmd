@@ -29,10 +29,10 @@ output:
 
 #### Outside links
 
-* [Wikipedia]()
-* [MAD]()
-* [Linkedin]()
-* [personal]()
+* <a href = "" target = "_blank">Wikipedia</a>
+* <a href = "" target = "_blank">MAD</a>
+* <a href = "" target = "_blank">Linkedin</a>
+* <a href = "" target = "_blank">Personal</a>
 
 
 ####  Other
@@ -42,5 +42,5 @@ output:
 
 [Back to the full database](https://hardin47.github.io/CURV/)
 
-[GitHub repository](https://github.com/hardin47/CURV/)
+<a href = "https://github.com/hardin47/CURV/" target = "_blank">GitHub repository</a>
 

@@ -10,7 +10,7 @@ In particular, one of the major goals of the database is to lower the barrier to
 You might use the database with a "Statistician of the Day" activity.
 Or you might have students bring into the classroom one idea connecting a scholar to the class content.
 
-See the <a href = "https://hardin47.netlify.app/blog/curv/" target = "_blank">CURV blog entry</a> for motivation and use in the classroom.
+See the <a href = "https://hardin47.netlify.app/blogs/2023-08-11-curv/" target = "_blank">CURV blog entry</a> for motivation and use in the classroom.
 
 There are many good resources highlighting statisticians, data scientists, and mathematicians who are traditionally underrepresented.
 I've listed just a few here, I encourage you and your students to check them out!
