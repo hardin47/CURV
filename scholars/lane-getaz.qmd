@@ -1,0 +1,54 @@
+---
+title: "Sharon Lane-Getaz"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Sharon Lane-Getaz", fig.alt = "Image credit: ", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/lane-getaz.jpeg")
+```
+:::
+
+:::{.g-col-8}
+# Sharon Lane-Getaz
+
+Dr. Lane-Getaz majored in mathematics at Trenton State College where she earned an undergraduate degree. During her senior year she did two things: she took a graduate class in applied mathematics at Harvard University and worked at IBM during a summer internship. The IBM internship turned into a full-time job where she stayed for more than a dozen years.
+
+A personal situation brought Dr. Lane-Getaz to Minnesota where she found herself engaged in teaching, first in middle and high school. Eventually she went back to graduate school and received a PhD in Statistics Education from the University of Minnesota. The majority of her teaching career was at St. Olaf college where, among other things, Dr. Lane-Getaz served as a Posse Mentor.  She is is now Professor Emerita.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+As a scholar of statistics education, Dr. Lane-Getaz works to understand how students reason about inferential methods, including linking understanding of p-values to randomization tests.
+
+#### Relevant work
+
+* Lane-Getaz, S. J. (2013). Development of a reliable measure of students' inferential reasoning ability. Statistics Education Research Journal, 12(1), 20–47.
+
+* Lane-Getaz, S. J. Introducing Social Justice Topics in an Introductory Statistics Course. Proceedings of the 8th International Conference on Teaching Statistics (ICOTS 8), International Association for Statistical Education, July 2010, https://icots.info/8/cd/pdfs/contributed/ICOTS8_C210_LANEGETAZ.pdf.
+
+#### Outside links
+
+* <a href = "https://www.linkedin.com/in/sharon-lane-getaz-8837869/" target = "_blank">Linkedin</a>
+* <a href = "https://stolaf.academia.edu/SharonLaneGetaz" target = "_blank">St. Olaf page</a>
+* <a href = "https://wp.stolaf.edu/news/lane-getaz-to-deliver-this-years-mellby-lecture" target = "_blank">Mellby Lecture</a>
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+<a href = "https://github.com/hardin47/CURV/" target = "_blank">GitHub repository</a>
+
