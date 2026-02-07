@@ -16,7 +16,7 @@ knitr::include_graphics("../images/dubois.jpg")
 
 # W.E.B. Du Bois
 
-Du Bois was a sociologist and among the earliest data scientists.  As Battle-Baptiste and Rusert say, his work can be thought of as 
+Du Bois was a sociologist and civil right advocate. Along with being one of the founders of the NAACP, he was also among the earliest data scientists.  As Battle-Baptiste and Rusert say, his work can be thought of as 
 
 > the rendering of information in a visual format to help communicate data while also generating new patterns and knoweldge throughout the act of visualization itselt.^[Battle-Baptiste and Rusert, W.E.B. Du Bois's Data Portraits: Visualizing Black America, the color line at the turn of the twentieth century, 2018, page 8.]
 :::
@@ -26,6 +26,7 @@ Du Bois was a sociologist and among the earliest data scientists.  As Battle-Bap
 #### Topics covered
 
 Du Bois was a sociologist who contributed to the field of data visualization through infographics related to the African American in the early twentieth century.
+Lots of good reasons to know about W.E.B. Du Bois, it is worth your time to do some Googling about him.
 
 #### Relevant work
 
