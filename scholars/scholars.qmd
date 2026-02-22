@@ -47,6 +47,7 @@ scholars <- tribble(
 "Echo-Hawk", "Abigail", "current", '<a href = "https://www.linkedin.com/in/abigail-echo-hawk-4a213030/" target = "_blank">LinkedIn</a>', '<a href = "https://hardin47.github.io/CURV/scholars/echo-hawk.html" target = "_blank">CURV</a>', "decolonizing data", "public health", "", "",
 "Price", "Dionne", "1971-2024", '<a href = "https://en.wikipedia.org/wiki/Dionne_Price" target = "_blank">Wikipedia</a>', '<a href = "https://hardin47.github.io/CURV/scholars/price.html" target = "_blank">CURV</a>', 'drug safety', 'design of experiments', 'Bayesian models at FDA', '',
 "Lane-Getaz", "Sharon", "current", '<a href = "https://stolaf.academia.edu/SharonLaneGetaz" target = "_blank">personal</a>', '<a href = "https://hardin47.github.io/CURV/scholars/lane-getaz.html" target = "_blank">CURV</a>', "statistics education", "social justice", "", "",
+"Tchetgen Tchetgen", "Eric", "current", '<a href = "https://statistics.wharton.upenn.edu/profile/ett/" target = "_blank">Wharton</a>', '<a href = "https://hardin47.github.io/CURV/scholars/tchetgentchetgen.html" target = "_blank">CURV</a>', "causal inference", "epidemiology", "", ""
 
 ) |>  arrange(lname)
 ```
