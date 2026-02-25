@@ -17,7 +17,9 @@ knitr::include_graphics("../images/wright.jpg")
 :::{.g-col-8}
 # Tommy Wright
 
-Dr. Wright received his PhD in Statistics from The Ohio State University and has worked at the US Census Bureau since 1996.  The Census Bureau planned to use sampling (instead of straight enumeration) in the 2000 census.  There was clear evidence that sampling would better evaluate the true number of people in each district in the United States.  In 1998 the US House of Representatives filed a lawsuit against the Department of Commerce with the argument that sampling is unconstitutional.  In 1998 the Supreme Court decided for the plaintiffs, and the 2000 census did not have any sampling. The Census Bureau describes what happened <a href = "https://www.census.gov/history/www/through_the_decades/overview/2000.html" target = "_blank">here</a>.
+Dr. Wright received his PhD in Statistics from The Ohio State University and has worked at the US Census Bureau since 1996. He is an Elected Member of the International Statistical Institute (1989) and Fellow of the American Statistical Association (1995).  
+
+The Census Bureau had hoped to use sampling (instead of straight enumeration) in the 2000 census.  There is clear evidence that sampling would better evaluate the true number of people in each district in the United States.  In 1998 the US House of Representatives filed a lawsuit against the Department of Commerce with the argument that sampling is unconstitutional.  In 1998 the Supreme Court decided for the plaintiffs, and the 2000 census did not have any sampling. The Census Bureau describes what happened <a href = "https://www.census.gov/history/www/through_the_decades/overview/2000.html" target = "_blank">here</a>.
 
 Tommy Wright provides an <a href = "https://www.jstor.org/stable/27857024" target = "_blank">excellent and accessible overview</a> of the sampling method and the importance of using sampling.  
 
@@ -28,7 +30,7 @@ Tommy Wright provides an <a href = "https://www.jstor.org/stable/27857024" targe
 
 #### Topics covered
 
-Dr. Wright's background is in mathematical probability sampling, seeking to demystify statistical results.  His US Census page reports his research interests as:
+Dr. Wright's background is in mathematical probability sampling, seeking to demystify statistical results.  His <a href = "https://www.niss.org/people/tommy-wright" target = "_blank">NISS page</a> (where he was formerly on the Board of Trustees) reports his research interests as:
 
 >(1) optimal allocation of the sample in sample surveys; 
 >(2) apportionment methods for the distribution of seats in the U. S. House of Representatives following each census; 
