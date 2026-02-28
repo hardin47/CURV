@@ -30,7 +30,10 @@ Dr. Hare is active in the <a href = "https://mircommunity.com/about/" target = "
 
 Her computational language of choice is `R`, and much of her work has focused on open science with an eye toward inclusion and equity.  In many software programs, the user has the ability to include **alt text**: text descriptions
 that convey the content and meaning to blind and low-vision
-readers.
+readers. Her main areas of research are:
+
+* working dog genetic, genomic, behavior and health research and breeding program analysis
+* inclusion and accessibility in the R and open science communities
 
 >you really need to tell us what the data is saying and why you included it.
 
@@ -47,7 +50,7 @@ readers.
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=a324TmAAAAAJ&view_op=list_works&sortby=pubdate)
 * [Linkedin](https://www.linkedin.com/in/liz-hare-phd-1a50925/)
-* [professional](http://www.doggenetics.com/)
+* [GitHub](https://github.com/LizHareDogs)
 * [fosstodon](https://fosstodon.org/@lizhare)
 
 
