@@ -30,6 +30,8 @@ Dr. Nuzzo is a statistician and a science journalist.  Her work has appeared in 
 
 #### Relevant work
 
+* Nuzzo, R. and Sainani, K. <a href = "https://www.normalcurves.com/" target = "_blank">Normal Curves</a> podcast.
+
 * Nuzzo, R. <a href = "https://doi.org/10.1038/506150a" target = "_blank">"Scientific method: Statistical errors."</a> Nature 506, 150–152 (2014). 
 
 * Nuzzo, R. <a href = "https://www.nih.gov/about-nih/what-we-do/science-health-public-trust/perspectives/science-health-public-trust/tips-communicating-statistical-significance" target = "_blank">"Tips for Communicating Statistical Significance."</a>  Science,
