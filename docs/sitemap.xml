@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardin47.github.io/CURV/index.html</loc>
-    <lastmod>2026-02-22T22:51:35.338Z</lastmod>
+    <lastmod>2026-09-22T17:03:19.635Z</lastmod>
   </url>
   <url>
     <loc>https://hardin47.github.io/CURV/scholars/scholars.html</loc>
-    <lastmod>2026-02-28T22:58:52.638Z</lastmod>
+    <lastmod>2026-09-22T17:02:29.094Z</lastmod>
   </url>
   <url>
     <loc>https://hardin47.github.io/CURV/scholars/hughes-oliver.html</loc>
@@ -131,5 +131,9 @@
   <url>
     <loc>https://hardin47.github.io/CURV/scholars/tchetgentchetgen.html</loc>
     <lastmod>2026-02-22T22:36:12.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hardin47.github.io/CURV/scholars/brown.html</loc>
+    <lastmod>2026-09-22T16:58:51.889Z</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,73 @@
+---
+title: "Emery Brown"
+layout: default
+output:
+  html_document:
+    keep_md: yes
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+```{r fig.cap = "Emery Brown", fig.alt = "Image credit: Joshua Sari&ntilde;ana", preview = TRUE, echo = FALSE}
+knitr::include_graphics("../images/brown.jpg")
+```
+:::
+
+:::{.g-col-8}
+# Emery Brown
+
+Dr. Emery Brown received a BA in applied mathematics from Harvard College, his MA and PhD in statistics from Harvard University, and his MD from Harvard Medical School. Brown is an anesthesiologist statistician who is well known for his work in signal processing algorithms for neuroscience data and for characterizing the neurophysiological mechanisms of general anesthesia.  Currently, Dr. Brown serves as the Edward Hood Taplin Professor of Meical Engineering and Computational Neuroscience at the Massachusetts Institute of Technology (MIT) and the Warren M. Zapol Professor of Anesthesia at Harvard Medical School, and an anesthesiologist at Massachusetts General Hospital.
+
+Dr. Brown has been recognized by the NIH Director's Pioneer Award, National Institute of Statistical Sciences (NISS) Sacks Award, American Society for Anesthesiologist Excellence in Research Award, the 2018 Dickson Prize in Science, and the 2020 Swartz Prize for Theoretical and Computational Neuroscience.  He is a member of the National Academy of Medicine, the National Academy of Science, and the National Academy of Engineering. He is a Guggenheim Fellow in Applied Mathematics and a Fellow of the American Statistical Association, the American Association for the Advancement of Science, the American Academy of Arts and Sciences, and the IEEE.
+
+:::
+
+:::
+
+
+#### Topics covered
+
+##### Statistical methods for neuroscience
+
+* He figured out how to modify signal processing frameworks to describe brain waves which gave neuroscientists the ability to decode brain signals as they happen.
+
+* He proved that the firing of rat hippocampal cells (the cells in the brain) maintain a remarkably precise coordinate map of an animal's physical location in real-time.
+
+* His statistical frameworks to model how neurons represent movement were used in work building neuroprosthetics and motor brain-computer interfaces.
+
+##### Neuroscience of general anesthesia
+
+* He figured out that anesthesia doesn't just put the brain to "sleep." Instead, it triggers low-frequency, high-amplitude brain wave oscillations which disrupt normal communication channels between different regions of the brain. 
+
+* His research demonstrated that brain waves change predictably based on the specific class of drugs and the age of the patient. As such, anesthesiologists could track brain states using EEG and prevent over-dosing or under-dosing in real time.
+
+
+
+#### Relevant work
+
+* Brown, E. N., Lydic, R., & Schiff, N. D. (2010). General anesthesia, sleep, and coma. *New England Journal of Medicine*, 363(27), 2638-2650. (more than 2000 citations)
+
+* Brown, E. N., Purdon, P. L., & Van Dort, C. J. (2011). General anesthesia and altered states of arousal: a systems neuroscience analysis. *Annual Review of Neuroscience*, 34(1), 601-628. (more than 1000 citations)
+
+* Brown, E. N., Frank, L. M., Tang, D., Quirk, M. C., & Wilson, M. A. (1998). A statistical paradigm for neural spike train decoding applied to position prediction from ensemble firing patterns of rat hippocampal place cells. *Journal of Neuroscience*, 18(18), 7411-7425. (more than 1000 citations)
+
+*  Brown, E. N., Choe, Y., Luithardt, H., & Czeisler, C. A. (2000). A statistical model of the human core-temperature circadian rhythm. *American Journal of Physiology-Endocrinology and Metabolism*, 279(3), E669-E683. (the definitive framework of the harmonic regression signal plus noise model)
+
+#### Outside links
+
+* <a href = "https://en.wikipedia.org/wiki/Emery_N._Brown" target = "_blank">Wikipedia</a>
+* <a href = "https://www.mathad.com/url?2ZRRRc6Mfp8kH" target = "_blank">MAD</a>
+* <a href = "https://www.linkedin.com/in/emery-n-brown-07307b156/" target = "_blank">Linkedin</a>
+* <a href = "https://www.neurostat.mit.edu/welcome-to-nsrl-mit" target = "_blank">Personal</a>
+
+
+####  Other
+
+
+----------------------
+
+[Back to the full database](https://hardin47.github.io/CURV/)
+
+<a href = "https://github.com/hardin47/CURV/" target = "_blank">GitHub repository</a>
+

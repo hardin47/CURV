@@ -9,3 +9,5 @@
 /.quarto/
 *.pptx
 *docx
+
+**/*.quarto_ipynb
